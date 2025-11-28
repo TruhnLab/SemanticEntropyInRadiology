@@ -1,0 +1,1041 @@
+id,temperature,prompt,llmAnswer,question,answer,subtopic,reference,lastUpdate,logProb
+0,0.1,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the recommended slice thickness for detecting interstitial lung disease on high-resolution CT (HRCT)?","According to the American College of Radiology (ACR) and the Fleischner Society, the recommended slice thickness for detecting interstitial lung disease on HRCT is 1-2 mm.",What is the recommended slice thickness for detecting interstitial lung disease on high-resolution CT (HRCT)?,less or equal to 1.5-mm slice thickness,Imaging Protocol,ACR�STR PRACTICE PARAMETER FOR THE PERFORMANCE OF HIGH-RESOLUTION COMPUTED TOMOGRAPHY (HRCT) OF THE LUNGS IN ADULTS,2020,None
+1,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the recommended slice thickness for detecting interstitial lung disease on high-resolution CT (HRCT)?","According to the American College of Radiology (ACR) and the Society of Thoracic Radiology, the recommended slice thickness for detecting interstitial lung disease on HRCT is ≤ 1.5 mm.",What is the recommended slice thickness for detecting interstitial lung disease on high-resolution CT (HRCT)?,less or equal to 1.5-mm slice thickness,Imaging Protocol,ACR�STR PRACTICE PARAMETER FOR THE PERFORMANCE OF HIGH-RESOLUTION COMPUTED TOMOGRAPHY (HRCT) OF THE LUNGS IN ADULTS,2020,None
+2,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the recommended slice thickness for detecting interstitial lung disease on high-resolution CT (HRCT)?","According to the Fleischner Society, the recommended slice thickness for detecting interstitial lung disease on HRCT is ≤1.5 mm.",What is the recommended slice thickness for detecting interstitial lung disease on high-resolution CT (HRCT)?,less or equal to 1.5-mm slice thickness,Imaging Protocol,ACR�STR PRACTICE PARAMETER FOR THE PERFORMANCE OF HIGH-RESOLUTION COMPUTED TOMOGRAPHY (HRCT) OF THE LUNGS IN ADULTS,2020,None
+3,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the recommended slice thickness for detecting interstitial lung disease on high-resolution CT (HRCT)?","According to the Fleischner Society's Guidelines, the recommended slice thickness for detecting interstitial lung disease on HRCT is 1 mm or less.",What is the recommended slice thickness for detecting interstitial lung disease on high-resolution CT (HRCT)?,less or equal to 1.5-mm slice thickness,Imaging Protocol,ACR�STR PRACTICE PARAMETER FOR THE PERFORMANCE OF HIGH-RESOLUTION COMPUTED TOMOGRAPHY (HRCT) OF THE LUNGS IN ADULTS,2020,None
+4,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the recommended slice thickness for detecting interstitial lung disease on high-resolution CT (HRCT)?","According to the American College of Radiology (ACR) and the Fleischner Society, the recommended slice thickness for detecting interstitial lung disease on high-resolution CT (HRCT) is 1-2 mm.",What is the recommended slice thickness for detecting interstitial lung disease on high-resolution CT (HRCT)?,less or equal to 1.5-mm slice thickness,Imaging Protocol,ACR�STR PRACTICE PARAMETER FOR THE PERFORMANCE OF HIGH-RESOLUTION COMPUTED TOMOGRAPHY (HRCT) OF THE LUNGS IN ADULTS,2020,None
+5,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the recommended slice thickness for detecting interstitial lung disease on high-resolution CT (HRCT)?","According to the American College of Radiology (ACR) and the Fleischner Society, a recommended slice thickness for detecting interstitial lung disease on HRCT is 1-2 mm.",What is the recommended slice thickness for detecting interstitial lung disease on high-resolution CT (HRCT)?,less or equal to 1.5-mm slice thickness,Imaging Protocol,ACR�STR PRACTICE PARAMETER FOR THE PERFORMANCE OF HIGH-RESOLUTION COMPUTED TOMOGRAPHY (HRCT) OF THE LUNGS IN ADULTS,2020,None
+6,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the recommended slice thickness for detecting interstitial lung disease on high-resolution CT (HRCT)?","According to the American College of Radiology (ACR) and the Fleischner Society, the recommended slice thickness for detecting interstitial lung disease on HRCT is 1-2 mm.",What is the recommended slice thickness for detecting interstitial lung disease on high-resolution CT (HRCT)?,less or equal to 1.5-mm slice thickness,Imaging Protocol,ACR�STR PRACTICE PARAMETER FOR THE PERFORMANCE OF HIGH-RESOLUTION COMPUTED TOMOGRAPHY (HRCT) OF THE LUNGS IN ADULTS,2020,None
+7,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the recommended slice thickness for detecting interstitial lung disease on high-resolution CT (HRCT)?","According to the American College of Radiology (ACR) and the Fleischner Society, the recommended slice thickness for detecting interstitial lung disease on HRCT is ≤1.5 mm, with intervals ≤10 mm apart.",What is the recommended slice thickness for detecting interstitial lung disease on high-resolution CT (HRCT)?,less or equal to 1.5-mm slice thickness,Imaging Protocol,ACR�STR PRACTICE PARAMETER FOR THE PERFORMANCE OF HIGH-RESOLUTION COMPUTED TOMOGRAPHY (HRCT) OF THE LUNGS IN ADULTS,2020,None
+8,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the recommended slice thickness for detecting interstitial lung disease on high-resolution CT (HRCT)?","According to the American College of Radiology (ACR) and the Radiological Society of North America (RSNA), the recommended slice thickness for detecting interstitial lung disease on high-resolution CT (HRCT) is ≤ 1.25 mm, with 0.5-1 mm being optimal.",What is the recommended slice thickness for detecting interstitial lung disease on high-resolution CT (HRCT)?,less or equal to 1.5-mm slice thickness,Imaging Protocol,ACR�STR PRACTICE PARAMETER FOR THE PERFORMANCE OF HIGH-RESOLUTION COMPUTED TOMOGRAPHY (HRCT) OF THE LUNGS IN ADULTS,2020,None
+9,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the recommended slice thickness for detecting interstitial lung disease on high-resolution CT (HRCT)?","According to the American College of Radiology (ACR) and the Fleischner Society, the recommended slice thickness for detecting interstitial lung disease on HRCT is ≤ 1.5 mm with a reconstruction interval of 10-20 mm.",What is the recommended slice thickness for detecting interstitial lung disease on high-resolution CT (HRCT)?,less or equal to 1.5-mm slice thickness,Imaging Protocol,ACR�STR PRACTICE PARAMETER FOR THE PERFORMANCE OF HIGH-RESOLUTION COMPUTED TOMOGRAPHY (HRCT) OF THE LUNGS IN ADULTS,2020,None
+10,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the recommended slice thickness for detecting interstitial lung disease on high-resolution CT (HRCT)?","According to the American College of Radiology (ACR) and the Society of Thoracic Radiology, the recommended slice thickness for detecting interstitial lung disease on HRCT is 1-2 mm.",What is the recommended slice thickness for detecting interstitial lung disease on high-resolution CT (HRCT)?,less or equal to 1.5-mm slice thickness,Imaging Protocol,ACR�STR PRACTICE PARAMETER FOR THE PERFORMANCE OF HIGH-RESOLUTION COMPUTED TOMOGRAPHY (HRCT) OF THE LUNGS IN ADULTS,2020,None
+0,0.1,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the standard protocol for an MRI of the pelvis to evaluate for prostate cancer?","According to the American College of Radiology (ACR) and the Society of Abdominal Radiology (SAR), the standard protocol for an MRI of the pelvis to evaluate for prostate cancer includes:
+
+* 1.5T or 3T scanner
+* Multi-planar imaging (axial, sagittal, coronal)
+* T2-weighted fast spin echo (FSE) sequences with small field-of-view (FOV)
+* Diffusion-weighted imaging (DWI) with b-values of 0 and 1000-1500 s/mm²
+* Dynamic contrast-enhanced (DCE) imaging after administration of gadolinium-based contrast agent
+
+Source: ACR-SAR Prostate Imaging Reporting and Data System (PI-RADS), v2.1",What is the standard protocol for an MRI of the pelvis to evaluate for prostate cancer?,"Multiparametric MRI including T2-weighted, DWI, and dynamic contrast-enhanced sequences.",Imaging Protocol,"Standard Operating Procedure for Multiparametric Magnetic Resonance Imaging in the Diagnosis, Staging and Management of Prostate Cancer",05/2019,None
+1,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the standard protocol for an MRI of the pelvis to evaluate for prostate cancer?","According to the American College of Radiology (ACR) and the Radiological Society of North America (RSNA), the standard protocol for an MRI of the pelvis to evaluate for prostate cancer includes:
+
+* 1.5T or 3T MRI scanner
+* T2-weighted imaging in axial, sagittal, and coronal planes
+* Diffusion-weighted imaging (DWI) with ADC mapping
+* Dynamic contrast-enhanced (DCE) imaging using a gadolinium-based contrast agent
+* Optional: MR spectroscopy",What is the standard protocol for an MRI of the pelvis to evaluate for prostate cancer?,"Multiparametric MRI including T2-weighted, DWI, and dynamic contrast-enhanced sequences.",Imaging Protocol,"Standard Operating Procedure for Multiparametric Magnetic Resonance Imaging in the Diagnosis, Staging and Management of Prostate Cancer",05/2019,None
+2,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the standard protocol for an MRI of the pelvis to evaluate for prostate cancer?","According to the American College of Radiology (ACR) and the Society of Abdominal Radiology (SAR), the standard protocol for an MRI of the pelvis to evaluate for prostate cancer includes:
+
+* T2-weighted imaging in axial, sagittal, and coronal planes
+* Diffusion-weighted imaging (DWI)
+* Apparent diffusion coefficient (ADC) mapping
+* Dynamic contrast-enhanced (DCE) imaging after administration of a gadolinium-based contrast agent
+
+Note: The protocol may vary slightly depending on the institution and specific MRI scanner.",What is the standard protocol for an MRI of the pelvis to evaluate for prostate cancer?,"Multiparametric MRI including T2-weighted, DWI, and dynamic contrast-enhanced sequences.",Imaging Protocol,"Standard Operating Procedure for Multiparametric Magnetic Resonance Imaging in the Diagnosis, Staging and Management of Prostate Cancer",05/2019,None
+3,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the standard protocol for an MRI of the pelvis to evaluate for prostate cancer?","According to the American College of Radiology (ACR) and the Society of Abdominal Radiologists (SAR), the standard protocol for an MRI of the pelvis to evaluate for prostate cancer includes:
+
+1. High-field strength scanner (> 1.5 Tesla)
+2. T2-weighted fast spin echo images in three planes: axial, coronal, and sagittal
+3. T1-weighted gradient echo images in axial plane
+4. Diffusion-weighted imaging (DWI) with b-values of at least 0, 100, and 800-1500 s/mm²
+5. Dynamic contrast-enhanced (DCE) MRI using a gadolinium-based agent
+
+Source: ACR-SAR PI-RADS v2.1",What is the standard protocol for an MRI of the pelvis to evaluate for prostate cancer?,"Multiparametric MRI including T2-weighted, DWI, and dynamic contrast-enhanced sequences.",Imaging Protocol,"Standard Operating Procedure for Multiparametric Magnetic Resonance Imaging in the Diagnosis, Staging and Management of Prostate Cancer",05/2019,None
+4,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the standard protocol for an MRI of the pelvis to evaluate for prostate cancer?","According to the American College of Radiology (ACR) and the Society of Abdominal Radiology (SAR), the standard protocol for an MRI of the pelvis to evaluate for prostate cancer includes:
+
+* T1-weighted imaging (T1WI)
+* T2-weighted imaging (T2WI)
+* Diffusion-weighted imaging (DWI)
+* Dynamic contrast-enhanced (DCE) imaging with gadolinium-based contrast agent
+
+ Slice thickness: ≤3 mm
+ Field of view: ≥240 mm x 240 mm",What is the standard protocol for an MRI of the pelvis to evaluate for prostate cancer?,"Multiparametric MRI including T2-weighted, DWI, and dynamic contrast-enhanced sequences.",Imaging Protocol,"Standard Operating Procedure for Multiparametric Magnetic Resonance Imaging in the Diagnosis, Staging and Management of Prostate Cancer",05/2019,None
+5,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the standard protocol for an MRI of the pelvis to evaluate for prostate cancer?","According to the American College of Radiology (ACR) and the Society of Abdominal Imaging (SAI), the standard protocol for an MRI of the pelvis to evaluate for prostate cancer includes:
+
+1. Multi-planar imaging:
+	* Axial T2-weighted imaging
+	* Coronal T2-weighted imaging
+	* Sagittal T2-weighted imaging
+2. High-resolution axial T2-weighted imaging through the prostate gland
+3. Diffusion-weighted imaging (DWI)
+4. Dynamic contrast-enhanced (DCE) imaging",What is the standard protocol for an MRI of the pelvis to evaluate for prostate cancer?,"Multiparametric MRI including T2-weighted, DWI, and dynamic contrast-enhanced sequences.",Imaging Protocol,"Standard Operating Procedure for Multiparametric Magnetic Resonance Imaging in the Diagnosis, Staging and Management of Prostate Cancer",05/2019,None
+6,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the standard protocol for an MRI of the pelvis to evaluate for prostate cancer?","According to the American College of Radiology (ACR) and the Society of Abdominal Imaging (SAI), the standard protocol for an MRI of the pelvis to evaluate for prostate cancer includes:
+
+* 1.5T or 3T MRI scanner
+* Use of a pelvic phased array coil
+* Axial, coronal, and sagittal T2-weighted fast spin-echo sequences
+* High-resolution axial T2-weighted sequence through the prostate gland ( slice thickness ≤ 3mm)
+* Optional: diffusion-weighted imaging (DWI) and dynamic contrast-enhanced MRI (DCE-MRI)
+
+(Reference: ACR-SAI Prostate Imaging Reporting and Data System, v2.1)",What is the standard protocol for an MRI of the pelvis to evaluate for prostate cancer?,"Multiparametric MRI including T2-weighted, DWI, and dynamic contrast-enhanced sequences.",Imaging Protocol,"Standard Operating Procedure for Multiparametric Magnetic Resonance Imaging in the Diagnosis, Staging and Management of Prostate Cancer",05/2019,None
+7,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the standard protocol for an MRI of the pelvis to evaluate for prostate cancer?","According to the American College of Radiology (ACR) and the Radiological Society of North America (RSNA), the standard protocol for an MRI of the pelvis to evaluate for prostate cancer is:
+
+* 1.5 Tesla or 3.0 Tesla scanner
+* T2-weighted imaging in axial, coronal, and sagittal planes
+* Diffusion-weighted imaging (DWI) with ADC maps
+* Dynamic contrast-enhanced (DCE) imaging
+
+Reference: PI-RADS v2.1 guidelines",What is the standard protocol for an MRI of the pelvis to evaluate for prostate cancer?,"Multiparametric MRI including T2-weighted, DWI, and dynamic contrast-enhanced sequences.",Imaging Protocol,"Standard Operating Procedure for Multiparametric Magnetic Resonance Imaging in the Diagnosis, Staging and Management of Prostate Cancer",05/2019,None
+8,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the standard protocol for an MRI of the pelvis to evaluate for prostate cancer?","According to the American College of Radiology (ACR) and the Society of Abdominal Imaging (SAI), the standard protocol for an MRI of the pelvis to evaluate for prostate cancer includes:
+
+* T2-weighted imaging (T2WI) in at least two planes (axial, sagittal, or coronal)
+* Diffusion-weighted imaging (DWI) with apparent diffusion coefficient (ADC) mapping
+* Dynamic contrast-enhanced (DCE) MRI",What is the standard protocol for an MRI of the pelvis to evaluate for prostate cancer?,"Multiparametric MRI including T2-weighted, DWI, and dynamic contrast-enhanced sequences.",Imaging Protocol,"Standard Operating Procedure for Multiparametric Magnetic Resonance Imaging in the Diagnosis, Staging and Management of Prostate Cancer",05/2019,None
+9,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the standard protocol for an MRI of the pelvis to evaluate for prostate cancer?","According to the American College of Radiology (ACR) and the Society of Abdominal Imaging (SAI), the standard protocol for an MRI of the pelvis to evaluate for prostate cancer includes:
+
+* 1.5T or 3T scanner
+* Pelvic phased array coil
+* T2-weighted fast spin echo (FSE) sequences in:
+	+ Axial plane
+	+ Sagittal plane
+	+ Coronal plane
+* T1-weighted FSE sequence (optional)
+* Diffusion-weighted imaging (DWI)
+* Dynamic contrast-enhanced (DCE) imaging (optional)
+
+Source: ACR-SAI Prostate Imaging - Reporting and Data System (PI-RADS) v2.1",What is the standard protocol for an MRI of the pelvis to evaluate for prostate cancer?,"Multiparametric MRI including T2-weighted, DWI, and dynamic contrast-enhanced sequences.",Imaging Protocol,"Standard Operating Procedure for Multiparametric Magnetic Resonance Imaging in the Diagnosis, Staging and Management of Prostate Cancer",05/2019,None
+10,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the standard protocol for an MRI of the pelvis to evaluate for prostate cancer?","According to the American College of Radiology (ACR) and the Society of Abdominal Radiology (SAR), the standard protocol for an MRI of the pelvis to evaluate for prostate cancer includes:
+
+* A 1.5T or 3T scanner
+* Axial T2-weighted imaging (T2WI)
+* Coronal and sagittal T2WI
+* Diffusion-weighted imaging (DWI) with calculation of apparent diffusion coefficient (ADC)
+* Dynamic contrast-enhanced (DCE) imaging
+
+Note: This protocol is based on the ACR-SAR guidelines for prostate MRI, version 2019.",What is the standard protocol for an MRI of the pelvis to evaluate for prostate cancer?,"Multiparametric MRI including T2-weighted, DWI, and dynamic contrast-enhanced sequences.",Imaging Protocol,"Standard Operating Procedure for Multiparametric Magnetic Resonance Imaging in the Diagnosis, Staging and Management of Prostate Cancer",05/2019,None
+0,0.1,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which phases of a CT protocol are required for suspected HCC according to LI-RADS?","According to LI-RADS (Liver Imaging Reporting and Data System), the following phases are required for suspected hepatocellular carcinoma (HCC):
+
+1. Non-contrast
+2. Arterial phase
+3. Portal venous phase
+4. Delayed phase",Which phases of a CT protocol are required for suspected HCC according to LI-RADS?,"� Arterial phase (late arterial phase strongly preferred)
+� Portal venous phase
+� Delayed phase",Imaging Protocol,"CT/MRI LI-RADS v2018
+Technical Recommendations",2018,None
+1,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which phases of a CT protocol are required for suspected HCC according to LI-RADS?","According to the current LI-RADS (Liver Imaging Reporting and Data System) v2018, for suspected hepatocellular carcinoma (HCC), the following CT phases are required:
+
+1. Non-contrast
+2. Arterial phase (approximately 20-30 seconds after contrast injection)
+3. Portal venous phase (approximately 60-70 seconds after contrast injection)
+
+Note: No later phases (e.g., delayed phase) are required according to LI-RADS v2018 for suspected HCC.",Which phases of a CT protocol are required for suspected HCC according to LI-RADS?,"� Arterial phase (late arterial phase strongly preferred)
+� Portal venous phase
+� Delayed phase",Imaging Protocol,"CT/MRI LI-RADS v2018
+Technical Recommendations",2018,None
+2,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which phases of a CT protocol are required for suspected HCC according to LI-RADS?","According to LI-RADS, the following phases of a CT protocol are required for suspected hepatocellular carcinoma (HCC):
+
+1. Non-contrast phase
+2. Arterial phase
+3. Portal venous phase
+4. Delayed phase",Which phases of a CT protocol are required for suspected HCC according to LI-RADS?,"� Arterial phase (late arterial phase strongly preferred)
+� Portal venous phase
+� Delayed phase",Imaging Protocol,"CT/MRI LI-RADS v2018
+Technical Recommendations",2018,None
+3,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which phases of a CT protocol are required for suspected HCC according to LI-RADS?","According to LI-RADS (Liver Imaging Reporting and Data System) v2018, the following phases are required for suspected hepatocellular carcinoma (HCC):
+
+1. Non-contrast
+2. Arterial phase
+3. Portal venous phase
+4. Delayed phase (optional but recommended if available)
+
+Source: ACR LI-RADS v2018",Which phases of a CT protocol are required for suspected HCC according to LI-RADS?,"� Arterial phase (late arterial phase strongly preferred)
+� Portal venous phase
+� Delayed phase",Imaging Protocol,"CT/MRI LI-RADS v2018
+Technical Recommendations",2018,None
+4,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which phases of a CT protocol are required for suspected HCC according to LI-RADS?","According to LI-RADS (Liver Imaging Reporting and Data System) v2018, for suspected hepatocellular carcinoma (HCC), the following phases of a CT protocol are required:
+
+1. Non-contrast
+2. Late arterial phase (approximately 30-45 seconds after contrast injection)
+3. Portal venous phase (approximately 60-90 seconds after contrast injection)
+
+(Note: LI-RADS is developed by the American College of Radiology, in collaboration with the Radiological Society of North America and the Society of Abdominal Radiology)",Which phases of a CT protocol are required for suspected HCC according to LI-RADS?,"� Arterial phase (late arterial phase strongly preferred)
+� Portal venous phase
+� Delayed phase",Imaging Protocol,"CT/MRI LI-RADS v2018
+Technical Recommendations",2018,None
+5,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which phases of a CT protocol are required for suspected HCC according to LI-RADS?","According to the current ACR (American College of Radiology) Liver Imaging Reporting and Data System (LI-RADS), the following phases are required for suspected hepatocellular carcinoma (HCC):
+
+1. Non-contrast
+2. Arterial phase
+3. Portal venous phase 
+
+Note: Delayed phase may be added but is not mandatory",Which phases of a CT protocol are required for suspected HCC according to LI-RADS?,"� Arterial phase (late arterial phase strongly preferred)
+� Portal venous phase
+� Delayed phase",Imaging Protocol,"CT/MRI LI-RADS v2018
+Technical Recommendations",2018,None
+6,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which phases of a CT protocol are required for suspected HCC according to LI-RADS?","According to LI-RADS v2018, the following phases are required for suspected Hepatocellular Carcinoma (HCC):
+
+1. Non-contrast
+2. Arterial phase
+3. Portal venous (or delayed) phase
+4. Optional: Hepatic venous or equilibrium phase",Which phases of a CT protocol are required for suspected HCC according to LI-RADS?,"� Arterial phase (late arterial phase strongly preferred)
+� Portal venous phase
+� Delayed phase",Imaging Protocol,"CT/MRI LI-RADS v2018
+Technical Recommendations",2018,None
+7,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which phases of a CT protocol are required for suspected HCC according to LI-RADS?","According to LI-RADS (Liver Imaging Reporting & Data System), the following phases are required for suspected Hepatocellular Carcinoma (HCC):
+
+1. Non-contrast
+2. Arterial phase
+3. Portal venous phase 
+
+Delayed phase is optional but recommended when available.",Which phases of a CT protocol are required for suspected HCC according to LI-RADS?,"� Arterial phase (late arterial phase strongly preferred)
+� Portal venous phase
+� Delayed phase",Imaging Protocol,"CT/MRI LI-RADS v2018
+Technical Recommendations",2018,None
+8,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which phases of a CT protocol are required for suspected HCC according to LI-RADS?","According to the Liver Imaging Reporting and Data System (LI-RADS) version 2018, which is currently valid in the US, the following phases are required for a CT protocol for suspected Hepatocellular Carcinoma (HCC):
+
+1. Non-contrast
+2. Arterial phase (~20-30 seconds after contrast injection)
+3. Portal venous phase (~60-70 seconds after contrast injection)",Which phases of a CT protocol are required for suspected HCC according to LI-RADS?,"� Arterial phase (late arterial phase strongly preferred)
+� Portal venous phase
+� Delayed phase",Imaging Protocol,"CT/MRI LI-RADS v2018
+Technical Recommendations",2018,None
+9,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which phases of a CT protocol are required for suspected HCC according to LI-RADS?","According to LI-RADS (Liver Imaging Reporting & Data System), for suspected hepatocellular carcinoma (HCC) on CT, the following phases are required:
+
+1. Unenhanced (pre-contrast)
+2. Arterial phase
+3. Venous (or portal venous) phase",Which phases of a CT protocol are required for suspected HCC according to LI-RADS?,"� Arterial phase (late arterial phase strongly preferred)
+� Portal venous phase
+� Delayed phase",Imaging Protocol,"CT/MRI LI-RADS v2018
+Technical Recommendations",2018,None
+10,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which phases of a CT protocol are required for suspected HCC according to LI-RADS?","According to LI-RADS (Liver Imaging Reporting and Data System) v2018, which is incorporated into ACR Appropriateness Criteria, the following phases of a CT protocol are required for suspected hepatocellular carcinoma (HCC):
+
+1. Arterial phase
+2. Venous/portal venous phase",Which phases of a CT protocol are required for suspected HCC according to LI-RADS?,"� Arterial phase (late arterial phase strongly preferred)
+� Portal venous phase
+� Delayed phase",Imaging Protocol,"CT/MRI LI-RADS v2018
+Technical Recommendations",2018,None
+0,0.1,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which MRI sequences are used to detect intracranial microbleeds?","According to the American College of Radiology (ACR) and the American Society of Neuroradiology (ASNR), the recommended MRI sequence for detecting intracranial microbleeds is:
+
+* T2*-weighted gradient echo (GRE) or susceptibility-weighted imaging (SWI).",Which MRI sequences are used to detect intracranial microbleeds?,Cerebral microhemorrhages are only seen on susceptibility weighted T2* sequences such as gradient-recalled echo (GRE) and susceptibility weighted imaging (SWI).,Imaging Protocol,Radiopaedia,,None
+1,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which MRI sequences are used to detect intracranial microbleeds?","According to the American College of Radiology (ACR) and the American Society of Neuroradiology (ASNR), the recommended MRI sequence for detecting intracranial microbleeds is:
+
+* Gradient-Echo (GRE) or Susceptibility-Weighted Imaging (SWI).",Which MRI sequences are used to detect intracranial microbleeds?,Cerebral microhemorrhages are only seen on susceptibility weighted T2* sequences such as gradient-recalled echo (GRE) and susceptibility weighted imaging (SWI).,Imaging Protocol,Radiopaedia,,None
+2,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which MRI sequences are used to detect intracranial microbleeds?","According to the American College of Radiology (ACR) and the Radiological Society of North America (RSNA), susceptibility-weighted imaging (SWI) or gradient-recalled echo (GRE) sequences are recommended for detecting intracranial microbleeds on MRI.",Which MRI sequences are used to detect intracranial microbleeds?,Cerebral microhemorrhages are only seen on susceptibility weighted T2* sequences such as gradient-recalled echo (GRE) and susceptibility weighted imaging (SWI).,Imaging Protocol,Radiopaedia,,None
+3,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which MRI sequences are used to detect intracranial microbleeds?","According to current guidelines, Susceptibility Weighted Imaging (SWI) or T2*-weighted Gradient Echo (GRE) sequences are recommended for detecting intracranial microbleeds on MRI.",Which MRI sequences are used to detect intracranial microbleeds?,Cerebral microhemorrhages are only seen on susceptibility weighted T2* sequences such as gradient-recalled echo (GRE) and susceptibility weighted imaging (SWI).,Imaging Protocol,Radiopaedia,,None
+4,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which MRI sequences are used to detect intracranial microbleeds?","According to the American College of Radiology (ACR) and the American Society of Neuroradiology (ASNR), gradient-recalled echo (GRE) T2*-weighted sequences are the recommended sequence for detecting intracranial microbleeds.",Which MRI sequences are used to detect intracranial microbleeds?,Cerebral microhemorrhages are only seen on susceptibility weighted T2* sequences such as gradient-recalled echo (GRE) and susceptibility weighted imaging (SWI).,Imaging Protocol,Radiopaedia,,None
+5,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which MRI sequences are used to detect intracranial microbleeds?","According to current US-American guidelines (e.g., American College of Radiology), gradient echo (GRE) and susceptibility-weighted imaging (SWI) sequences are typically used to detect intracranial microbleeds.",Which MRI sequences are used to detect intracranial microbleeds?,Cerebral microhemorrhages are only seen on susceptibility weighted T2* sequences such as gradient-recalled echo (GRE) and susceptibility weighted imaging (SWI).,Imaging Protocol,Radiopaedia,,None
+6,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which MRI sequences are used to detect intracranial microbleeds?","According to the American College of Radiology (ACR) and the American Society of Neuroradiology (ASNR), the following MRI sequences are recommended for detecting intracranial microbleeds:
+
+* T2*-weighted gradient-echo (GRE)
+* Susceptibility-weighted imaging (SWI)",Which MRI sequences are used to detect intracranial microbleeds?,Cerebral microhemorrhages are only seen on susceptibility weighted T2* sequences such as gradient-recalled echo (GRE) and susceptibility weighted imaging (SWI).,Imaging Protocol,Radiopaedia,,None
+7,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which MRI sequences are used to detect intracranial microbleeds?","According to the American College of Radiology (ACR) and the Radiological Society of North America (RSNA), gradient echo (GRE) or susceptibility-weighted imaging (SWI) sequences are recommended for detecting intracranial microbleeds.",Which MRI sequences are used to detect intracranial microbleeds?,Cerebral microhemorrhages are only seen on susceptibility weighted T2* sequences such as gradient-recalled echo (GRE) and susceptibility weighted imaging (SWI).,Imaging Protocol,Radiopaedia,,None
+8,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which MRI sequences are used to detect intracranial microbleeds?","According to the American College of Radiology (ACR) and the American Society of Neuroradiology (ASNR), Gradient Echo (GRE) and Susceptibility Weighted Imaging (SWI) sequences are recommended for detecting intracranial microbleeds on MRI.",Which MRI sequences are used to detect intracranial microbleeds?,Cerebral microhemorrhages are only seen on susceptibility weighted T2* sequences such as gradient-recalled echo (GRE) and susceptibility weighted imaging (SWI).,Imaging Protocol,Radiopaedia,,None
+9,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which MRI sequences are used to detect intracranial microbleeds?","According to the American College of Radiology (ACR) and the American Society of Neuroradiology (ASNR), the following MRI sequences are used to detect intracranial microbleeds:
+
+* T2*-weighted gradient-recalled echo (GRE)
+* Susceptibility-weighted imaging (SWI)",Which MRI sequences are used to detect intracranial microbleeds?,Cerebral microhemorrhages are only seen on susceptibility weighted T2* sequences such as gradient-recalled echo (GRE) and susceptibility weighted imaging (SWI).,Imaging Protocol,Radiopaedia,,None
+10,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which MRI sequences are used to detect intracranial microbleeds?","According to the American College of Radiology (ACR) and the American Society of Neuroradiology (ASNR), susceptibility-weighted imaging (SWI) or gradient-echo T2*-weighted sequences are typically used to detect intracranial microbleeds.",Which MRI sequences are used to detect intracranial microbleeds?,Cerebral microhemorrhages are only seen on susceptibility weighted T2* sequences such as gradient-recalled echo (GRE) and susceptibility weighted imaging (SWI).,Imaging Protocol,Radiopaedia,,None
+0,0.1,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which MRI sequence helps differentiating endometriomas from mature cystic teratomas?","According to the American College of Radiology (ACR) and the Radiological Society of North America (RSNA), a fat-suppressed T1-weighted sequence can help differentiate endometriomas from mature cystic teratomas. Endometriomas typically do not show high signal intensity on fat-suppressed T1-weighted images, whereas mature cystic teratomas often contain fat and will appear hyperintense on these sequences.",Which MRI sequence helps differentiating endometriomas from mature cystic teratomas?,T1-weighted sequence with fat suppression,Imaging Protocol,Radiopaedia,,None
+1,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which MRI sequence helps differentiating endometriomas from mature cystic teratomas?","Fat-suppressed T1-weighted imaging, specifically the detection of fat within the lesion on fat-saturated sequences (e.g., FS T1WI) can help differentiate between the two. Endometriomas will typically not contain visible fat within them on FS T1WI, whereas mature cystic teratomas often do.
+
+ Source: ACR-ACOG-AIUM-SRU Practice Parameter for the Performance of Ultrasound and Magnetic Resonance Imaging of the Female Pelvis (2018), as well as multiple radiology journals/references citing this principle.",Which MRI sequence helps differentiating endometriomas from mature cystic teratomas?,T1-weighted sequence with fat suppression,Imaging Protocol,Radiopaedia,,None
+2,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which MRI sequence helps differentiating endometriomas from mature cystic teratomas?","According to the American College of Radiology (ACR) guidelines, a fat-suppressed T1-weighted sequence can help differentiate endometriomas from mature cystic teratomas. Endometriomas typically lose signal intensity on fat-suppressed images, while dermoid cysts (mature cystic teratomas) retain high signal intensity due to their fatty content.",Which MRI sequence helps differentiating endometriomas from mature cystic teratomas?,T1-weighted sequence with fat suppression,Imaging Protocol,Radiopaedia,,None
+3,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which MRI sequence helps differentiating endometriomas from mature cystic teratomas?","According to current radiological guidelines, T1-weighted fat-suppressed sequences can help differentiate endometriomas (which typically show high signal intensity on T1 and decrease or disappear with fat suppression) from mature cystic teratomas (dermoid cysts, which may contain fat and thus remain hyperintense on fat-suppressed images).",Which MRI sequence helps differentiating endometriomas from mature cystic teratomas?,T1-weighted sequence with fat suppression,Imaging Protocol,Radiopaedia,,None
+4,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which MRI sequence helps differentiating endometriomas from mature cystic teratomas?","According to current US-American guidelines (ACR Appropriateness Criteria, ACR Manual on MR Safety), a Fat-Suppressed T1-weighted sequence can help differentiate endometriomas from mature cystic teratomas.",Which MRI sequence helps differentiating endometriomas from mature cystic teratomas?,T1-weighted sequence with fat suppression,Imaging Protocol,Radiopaedia,,None
+5,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which MRI sequence helps differentiating endometriomas from mature cystic teratomas?","According to the American College of Radiology (ACR) guidelines, a fat-suppressed T1-weighted sequence can help differentiate endometriomas from mature cystic teratomas, as endometriomas typically do not contain fat and will suppress, whereas teratomas may show areas of high signal that persist despite fat suppression due to the presence of fat.",Which MRI sequence helps differentiating endometriomas from mature cystic teratomas?,T1-weighted sequence with fat suppression,Imaging Protocol,Radiopaedia,,None
+6,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which MRI sequence helps differentiating endometriomas from mature cystic teratomas?","According to current American College of Radiology (ACR) guidelines, a fat-suppressed T1-weighted sequence can help differentiate endometriomas from mature cystic teratomas. Endometriomas typically lose signal on this sequence due to hemorrhagic content being suppressed, while mature cystic teratomas retain hyperintense signal due to their fatty components.",Which MRI sequence helps differentiating endometriomas from mature cystic teratomas?,T1-weighted sequence with fat suppression,Imaging Protocol,Radiopaedia,,None
+7,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which MRI sequence helps differentiating endometriomas from mature cystic teratomas?","T1-weighted imaging with fat suppression. Endometriomas typically lose signal intensity on fat-suppressed T1-weighted images, while mature cystic teratomas retain high signal intensity due to the presence of sebaceous material (Source: American College of Radiology, ACR Appropriateness Criteria).",Which MRI sequence helps differentiating endometriomas from mature cystic teratomas?,T1-weighted sequence with fat suppression,Imaging Protocol,Radiopaedia,,None
+8,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which MRI sequence helps differentiating endometriomas from mature cystic teratomas?","According to the American College of Radiology (ACR) and the Radiological Society of North America (RSNA), a fat-suppressed T1-weighted sequence can help differentiate endometriomas from mature cystic teratomas, as it highlights the presence or absence of fat within the lesion.",Which MRI sequence helps differentiating endometriomas from mature cystic teratomas?,T1-weighted sequence with fat suppression,Imaging Protocol,Radiopaedia,,None
+9,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which MRI sequence helps differentiating endometriomas from mature cystic teratomas?","T1-weighted imaging, specifically with fat suppression or chemical shift artifact, can help differentiate between endometriomas and mature cystic teratomas due to their distinct signal characteristics. (Ref: ACR Manual on Contrast Media, ACR-SPR Practice Parameter for the Safe Use of MRI Contrast Media)",Which MRI sequence helps differentiating endometriomas from mature cystic teratomas?,T1-weighted sequence with fat suppression,Imaging Protocol,Radiopaedia,,None
+10,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which MRI sequence helps differentiating endometriomas from mature cystic teratomas?","According to current guidelines, a fat-suppressed T1-weighted (FS-T1) sequence can help differentiate endometriomas from mature cystic teratomas on MRI.",Which MRI sequence helps differentiating endometriomas from mature cystic teratomas?,T1-weighted sequence with fat suppression,Imaging Protocol,Radiopaedia,,None
+0,0.1,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the typical radiation dose for a standard chest X-ray?","According to the American College of Radiology (ACR) and the National Council on Radiation Protection and Measurements (NCRP), the typical effective dose from a standard chest X-ray is approximately 10 microsieverts (μSv).",What is the typical radiation dose for a standard chest X-ray?,0.1 mSv,Radioprotection,ACR: Radiation Dose to Adults From Common Imaging Examinations,05/2022,None
+1,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the typical radiation dose for a standard chest X-ray?","According to the American College of Radiology (ACR), the typical effective dose from a standard chest X-ray is approximately 10 microsieverts (μSv).",What is the typical radiation dose for a standard chest X-ray?,0.1 mSv,Radioprotection,ACR: Radiation Dose to Adults From Common Imaging Examinations,05/2022,None
+2,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the typical radiation dose for a standard chest X-ray?","According to the American College of Radiology (ACR) and the National Council on Radiation Protection and Measurements (NCRP), the typical effective dose from a standard chest X-ray is approximately 10-20 microsieverts (μSv).",What is the typical radiation dose for a standard chest X-ray?,0.1 mSv,Radioprotection,ACR: Radiation Dose to Adults From Common Imaging Examinations,05/2022,None
+3,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the typical radiation dose for a standard chest X-ray?","According to the American College of Radiology (ACR), the typical effective radiation dose for a standard chest X-ray is approximately 0.1 millisieverts (mSv) or 10 millirems (mrem).",What is the typical radiation dose for a standard chest X-ray?,0.1 mSv,Radioprotection,ACR: Radiation Dose to Adults From Common Imaging Examinations,05/2022,None
+4,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the typical radiation dose for a standard chest X-ray?","According to the American College of Radiology (ACR) and the National Council on Radiation Protection and Measurements (NCRP), the typical effective dose from a standard chest X-ray is approximately 10 microsieverts (μSv).",What is the typical radiation dose for a standard chest X-ray?,0.1 mSv,Radioprotection,ACR: Radiation Dose to Adults From Common Imaging Examinations,05/2022,None
+5,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the typical radiation dose for a standard chest X-ray?","According to the American College of Radiology (ACR), the typical effective dose from a standard chest X-ray is approximately 10 microsieverts (μSv) or 1 millirem (mrem).",What is the typical radiation dose for a standard chest X-ray?,0.1 mSv,Radioprotection,ACR: Radiation Dose to Adults From Common Imaging Examinations,05/2022,None
+6,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the typical radiation dose for a standard chest X-ray?","According to the American College of Radiology (ACR) and the National Council on Radiation Protection and Measurements (NCRP), the typical effective radiation dose for a standard chest X-ray is around 0.1 millisieverts (mSv).",What is the typical radiation dose for a standard chest X-ray?,0.1 mSv,Radioprotection,ACR: Radiation Dose to Adults From Common Imaging Examinations,05/2022,None
+7,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the typical radiation dose for a standard chest X-ray?","According to the American College of Radiology (ACR), the typical effective dose from a standard chest X-ray is approximately 0.1 millisieverts (mSv) or 10 millirems (mrem).",What is the typical radiation dose for a standard chest X-ray?,0.1 mSv,Radioprotection,ACR: Radiation Dose to Adults From Common Imaging Examinations,05/2022,None
+8,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the typical radiation dose for a standard chest X-ray?","According to the American College of Radiology (ACR), a standard chest X-ray typically has an effective radiation dose of around 10 microsieverts (μSv) or 1 millisievert (mSv).",What is the typical radiation dose for a standard chest X-ray?,0.1 mSv,Radioprotection,ACR: Radiation Dose to Adults From Common Imaging Examinations,05/2022,None
+9,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the typical radiation dose for a standard chest X-ray?","According to the American College of Radiology (ACR) and the National Council on Radiation Protection and Measurements (NCRP), the typical effective radiation dose from a standard posterior-anterior (PA) chest X-ray is approximately 10 microsieverts (μSv) or 1 millirem (mrem).",What is the typical radiation dose for a standard chest X-ray?,0.1 mSv,Radioprotection,ACR: Radiation Dose to Adults From Common Imaging Examinations,05/2022,None
+10,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the typical radiation dose for a standard chest X-ray?","According to the American College of Radiology (ACR), a standard chest X-ray typically results in an effective dose of approximately 0.01 millisieverts (mSv) or 1 millirems (mrem).",What is the typical radiation dose for a standard chest X-ray?,0.1 mSv,Radioprotection,ACR: Radiation Dose to Adults From Common Imaging Examinations,05/2022,None
+0,0.1,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+According to the ACR, what are the suspected in utero induced deterministic radiation effects when 80 mGy are administered to a pregnant patient with a menstrual age of 25 weeks?","According to the American College of Radiology (ACR) and the National Council on Radiation Protection and Measurements (NCRP), at 25 weeks gestational age, an in-utero dose of 80 mGy is not expected to cause deterministic radiation effects.","According to the ACR, what are the suspected in utero induced deterministic radiation effects when 80 mGy are administered to a pregnant patient with a menstrual age of 25 weeks?",None,Radioprotection,ACR�SPR PRACTICE PARAMETER FOR IMAGING PREGNANT OR POTENTIALLY PREGNANT PATIENTS WITH IONIZING RADIATION,2023,None
+1,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+According to the ACR, what are the suspected in utero induced deterministic radiation effects when 80 mGy are administered to a pregnant patient with a menstrual age of 25 weeks?",I cannot provide medical advice. Is there anything else I can help you with?,"According to the ACR, what are the suspected in utero induced deterministic radiation effects when 80 mGy are administered to a pregnant patient with a menstrual age of 25 weeks?",None,Radioprotection,ACR�SPR PRACTICE PARAMETER FOR IMAGING PREGNANT OR POTENTIALLY PREGNANT PATIENTS WITH IONIZING RADIATION,2023,None
+2,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+According to the ACR, what are the suspected in utero induced deterministic radiation effects when 80 mGy are administered to a pregnant patient with a menstrual age of 25 weeks?","According to the American College of Radiology (ACR) and based on the National Council on Radiation Protection and Measurements (NCRP) Report No. 174, for an 80 mGy dose at a menstrual age of 25 weeks, the suspected in utero induced deterministic radiation effects are:
+
+* Severe mental retardation or death 
+
+ Reference: ACR-ACOG-AIUM-SRU Practice Parameter for Imaging Pregnant and Possibly Pregnant Adolescents and Women with Ionizing Radiation","According to the ACR, what are the suspected in utero induced deterministic radiation effects when 80 mGy are administered to a pregnant patient with a menstrual age of 25 weeks?",None,Radioprotection,ACR�SPR PRACTICE PARAMETER FOR IMAGING PREGNANT OR POTENTIALLY PREGNANT PATIENTS WITH IONIZING RADIATION,2023,None
+3,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+According to the ACR, what are the suspected in utero induced deterministic radiation effects when 80 mGy are administered to a pregnant patient with a menstrual age of 25 weeks?","According to the American College of Radiology (ACR), at a menstrual age of 25 weeks and an exposure of 80 mGy, there is no increased risk for deterministic radiation effects.","According to the ACR, what are the suspected in utero induced deterministic radiation effects when 80 mGy are administered to a pregnant patient with a menstrual age of 25 weeks?",None,Radioprotection,ACR�SPR PRACTICE PARAMETER FOR IMAGING PREGNANT OR POTENTIALLY PREGNANT PATIENTS WITH IONIZING RADIATION,2023,None
+4,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+According to the ACR, what are the suspected in utero induced deterministic radiation effects when 80 mGy are administered to a pregnant patient with a menstrual age of 25 weeks?","No deterministic effects. (ACR Manual on Contrast Media, Version 2022: Appendix E - Estimating Fetal Dose and Risk From Radiation)","According to the ACR, what are the suspected in utero induced deterministic radiation effects when 80 mGy are administered to a pregnant patient with a menstrual age of 25 weeks?",None,Radioprotection,ACR�SPR PRACTICE PARAMETER FOR IMAGING PREGNANT OR POTENTIALLY PREGNANT PATIENTS WITH IONIZING RADIATION,2023,None
+5,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+According to the ACR, what are the suspected in utero induced deterministic radiation effects when 80 mGy are administered to a pregnant patient with a menstrual age of 25 weeks?",No deterministic effects are expected. (ACR Guidance Document on MR Safe Practices: 2020; ACR-SPR Practice Parameter for Imaging Pregnant or Possibly Pregnant Adolescents and Women with Ionizing Radiation),"According to the ACR, what are the suspected in utero induced deterministic radiation effects when 80 mGy are administered to a pregnant patient with a menstrual age of 25 weeks?",None,Radioprotection,ACR�SPR PRACTICE PARAMETER FOR IMAGING PREGNANT OR POTENTIALLY PREGNANT PATIENTS WITH IONIZING RADIATION,2023,None
+6,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+According to the ACR, what are the suspected in utero induced deterministic radiation effects when 80 mGy are administered to a pregnant patient with a menstrual age of 25 weeks?","According to the American College of Radiology (ACR), at a dose of 80 mGy and a gestational age of approximately 25 weeks, no in utero induced deterministic radiation effects are expected.","According to the ACR, what are the suspected in utero induced deterministic radiation effects when 80 mGy are administered to a pregnant patient with a menstrual age of 25 weeks?",None,Radioprotection,ACR�SPR PRACTICE PARAMETER FOR IMAGING PREGNANT OR POTENTIALLY PREGNANT PATIENTS WITH IONIZING RADIATION,2023,None
+7,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+According to the ACR, what are the suspected in utero induced deterministic radiation effects when 80 mGy are administered to a pregnant patient with a menstrual age of 25 weeks?","No deterministic effects (e.g., malformations or fetal loss) from radiation exposure in utero are expected at doses <100 mGy. Since the dose is below this threshold, no suspected deterministic radiation effects are expected.
+
+Source: American College of Radiology (ACR), ACR-SPR Practice Parameter for Imaging Pregnant or Possibly Pregnant Adolescents and Women with Ionizing Radiation","According to the ACR, what are the suspected in utero induced deterministic radiation effects when 80 mGy are administered to a pregnant patient with a menstrual age of 25 weeks?",None,Radioprotection,ACR�SPR PRACTICE PARAMETER FOR IMAGING PREGNANT OR POTENTIALLY PREGNANT PATIENTS WITH IONIZING RADIATION,2023,None
+8,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+According to the ACR, what are the suspected in utero induced deterministic radiation effects when 80 mGy are administered to a pregnant patient with a menstrual age of 25 weeks?","According to the American College of Radiology (ACR) and the National Council on Radiation Protection and Measurements (NCRP), for a fetal dose of 80 mGy at a menstrual age of 25 weeks, there is no increase in the risk of fetal loss or congenital abnormalities.","According to the ACR, what are the suspected in utero induced deterministic radiation effects when 80 mGy are administered to a pregnant patient with a menstrual age of 25 weeks?",None,Radioprotection,ACR�SPR PRACTICE PARAMETER FOR IMAGING PREGNANT OR POTENTIALLY PREGNANT PATIENTS WITH IONIZING RADIATION,2023,None
+9,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+According to the ACR, what are the suspected in utero induced deterministic radiation effects when 80 mGy are administered to a pregnant patient with a menstrual age of 25 weeks?","According to the American College of Radiology (ACR) and the National Council on Radiation Protection and Measurements (NCRP), at a gestational age corresponding to a menstrual age of 25 weeks, deterministic effects in the fetus are not expected at doses below 250-300 mGy.
+
+Since 80 mGy is below this threshold, no deterministic radiation effects are suspected.","According to the ACR, what are the suspected in utero induced deterministic radiation effects when 80 mGy are administered to a pregnant patient with a menstrual age of 25 weeks?",None,Radioprotection,ACR�SPR PRACTICE PARAMETER FOR IMAGING PREGNANT OR POTENTIALLY PREGNANT PATIENTS WITH IONIZING RADIATION,2023,None
+10,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+According to the ACR, what are the suspected in utero induced deterministic radiation effects when 80 mGy are administered to a pregnant patient with a menstrual age of 25 weeks?",I am unable to verify the suspected in utero induced deterministic radiation effects when 80 mGy are administered to a pregnant patient with a menstrual age of 25 weeks according to the American College of Radiology (ACR).,"According to the ACR, what are the suspected in utero induced deterministic radiation effects when 80 mGy are administered to a pregnant patient with a menstrual age of 25 weeks?",None,Radioprotection,ACR�SPR PRACTICE PARAMETER FOR IMAGING PREGNANT OR POTENTIALLY PREGNANT PATIENTS WITH IONIZING RADIATION,2023,None
+0,0.1,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the recommended position of the image receptor in fluoroscopy-guided interventions in terms of radioprotection? ","According to the American College of Radiology (ACR) and the National Council on Radiation Protection and Measurements (NCRP), the image receptor should be positioned under the patient, whenever possible, to reduce radiation exposure to the operator.",What is the recommended position of the image receptor in fluoroscopy-guided interventions in terms of radioprotection? ,Place the image receptor as close as reasonably possible to the patient.,Radioprotection,ACR�AAPM TECHNICAL STANDARD FOR MANAGEMENT OF THE USE OF RADIATION IN FLUOROSCOPIC PROCEDURES,2023,None
+1,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the recommended position of the image receptor in fluoroscopy-guided interventions in terms of radioprotection? ","According to the current US-American guidelines, specifically the National Council on Radiation Protection and Measurements (NCRP) Report No. 168, the recommended position of the image receptor in fluoroscopy-guided interventions is ""Under the patient"" or ""Inverted C-arm"", whenever possible.",What is the recommended position of the image receptor in fluoroscopy-guided interventions in terms of radioprotection? ,Place the image receptor as close as reasonably possible to the patient.,Radioprotection,ACR�AAPM TECHNICAL STANDARD FOR MANAGEMENT OF THE USE OF RADIATION IN FLUOROSCOPIC PROCEDURES,2023,None
+2,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the recommended position of the image receptor in fluoroscopy-guided interventions in terms of radioprotection? ","According to the current American Association of Physicists in Medicine (AAPM) guidelines and the National Council on Radiation Protection and Measurements (NCRP), the image receptor should be positioned under the patient for fluoroscopy-guided interventions whenever possible, to reduce scattered radiation exposure to personnel.",What is the recommended position of the image receptor in fluoroscopy-guided interventions in terms of radioprotection? ,Place the image receptor as close as reasonably possible to the patient.,Radioprotection,ACR�AAPM TECHNICAL STANDARD FOR MANAGEMENT OF THE USE OF RADIATION IN FLUOROSCOPIC PROCEDURES,2023,None
+3,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the recommended position of the image receptor in fluoroscopy-guided interventions in terms of radioprotection? ","According to the American College of Radiology (ACR) and the National Council on Radiation Protection and Measurements (NCRP), the image receptor should be positioned ""under the table"" or ""below the patient"", whenever possible, to reduce radiation exposure to the operator's head and neck. [1]
+
+[1] ACR-ASNR-SPR Practice Parameter for Imaging-Guided Interventional Procedures: https://www.acr.org/-/media/ACR/Files/Clinical-Resources/Imaging-Guided-Procedures.pdf",What is the recommended position of the image receptor in fluoroscopy-guided interventions in terms of radioprotection? ,Place the image receptor as close as reasonably possible to the patient.,Radioprotection,ACR�AAPM TECHNICAL STANDARD FOR MANAGEMENT OF THE USE OF RADIATION IN FLUOROSCOPIC PROCEDURES,2023,None
+4,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the recommended position of the image receptor in fluoroscopy-guided interventions in terms of radioprotection? ","According to the National Council on Radiation Protection and Measurements (NCRP) Report No. 168, ""Radiation Dose Management for Fluoroscopically Guided Interventional Medical Procedures"" (2010), the image receptor should be positioned as close as possible to the patient's skin, while still maintaining optimal image quality.",What is the recommended position of the image receptor in fluoroscopy-guided interventions in terms of radioprotection? ,Place the image receptor as close as reasonably possible to the patient.,Radioprotection,ACR�AAPM TECHNICAL STANDARD FOR MANAGEMENT OF THE USE OF RADIATION IN FLUOROSCOPIC PROCEDURES,2023,None
+5,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the recommended position of the image receptor in fluoroscopy-guided interventions in terms of radioprotection? ","According to the American Association of Physicists in Medicine (AAPM) guidelines, the image receptor should be positioned ""under"" the patient, not ""over"" the patient, whenever possible, to minimize radiation exposure to the operator and others in the room.",What is the recommended position of the image receptor in fluoroscopy-guided interventions in terms of radioprotection? ,Place the image receptor as close as reasonably possible to the patient.,Radioprotection,ACR�AAPM TECHNICAL STANDARD FOR MANAGEMENT OF THE USE OF RADIATION IN FLUOROSCOPIC PROCEDURES,2023,None
+6,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the recommended position of the image receptor in fluoroscopy-guided interventions in terms of radioprotection? ","According to the National Council on Radiation Protection and Measurements (NCRP) Report No. 168, ""Radiation Dose Management for Fluoroscopically Guided Interventional Medical Procedures,"" the recommended position of the image receptor (IR) is:
+
+* Under the patient's table for procedures that allow it (e.g., lower extremity interventions)
+* As close as possible to the patient without compromising the procedure or diagnostic information.
+
+This positioning helps minimize radiation exposure to personnel and patients.",What is the recommended position of the image receptor in fluoroscopy-guided interventions in terms of radioprotection? ,Place the image receptor as close as reasonably possible to the patient.,Radioprotection,ACR�AAPM TECHNICAL STANDARD FOR MANAGEMENT OF THE USE OF RADIATION IN FLUOROSCOPIC PROCEDURES,2023,None
+7,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the recommended position of the image receptor in fluoroscopy-guided interventions in terms of radioprotection? ","According to the American College of Radiology (ACR) and the National Council on Radiation Protection and Measurements (NCRP), the image receptor should be positioned under the patient, whenever possible.",What is the recommended position of the image receptor in fluoroscopy-guided interventions in terms of radioprotection? ,Place the image receptor as close as reasonably possible to the patient.,Radioprotection,ACR�AAPM TECHNICAL STANDARD FOR MANAGEMENT OF THE USE OF RADIATION IN FLUOROSCOPIC PROCEDURES,2023,None
+8,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the recommended position of the image receptor in fluoroscopy-guided interventions in terms of radioprotection? ","According to the National Council on Radiation Protection and Measurements (NCRP) Report No. 168 (2010), in fluoroscopy-guided interventions, the image receptor should be positioned so that it is as close as possible to the patient's body part being imaged, with the x-ray tube at a distance of at least 30 inches (76 cm) from the patient.",What is the recommended position of the image receptor in fluoroscopy-guided interventions in terms of radioprotection? ,Place the image receptor as close as reasonably possible to the patient.,Radioprotection,ACR�AAPM TECHNICAL STANDARD FOR MANAGEMENT OF THE USE OF RADIATION IN FLUOROSCOPIC PROCEDURES,2023,None
+9,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the recommended position of the image receptor in fluoroscopy-guided interventions in terms of radioprotection? ","According to the National Council on Radiation Protection and Measurements (NCRP) Report No. 168 (2010), the image receptor should be positioned so that the x-ray beam is directed from beneath the table, whenever possible.",What is the recommended position of the image receptor in fluoroscopy-guided interventions in terms of radioprotection? ,Place the image receptor as close as reasonably possible to the patient.,Radioprotection,ACR�AAPM TECHNICAL STANDARD FOR MANAGEMENT OF THE USE OF RADIATION IN FLUOROSCOPIC PROCEDURES,2023,None
+10,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the recommended position of the image receptor in fluoroscopy-guided interventions in terms of radioprotection? ","According to the American Association of Physicists in Medicine (AAPM) and the American College of Radiology (ACR), the image receptor should be positioned under the patient whenever possible, as this reduces radiation exposure to the operator. (Source: ACR-ASTRO Practice Parameter for Radiation Oncology, 2020; AAPM Position Statement on Radiation Dose in Fluoroscopic Procedures, 2018)",What is the recommended position of the image receptor in fluoroscopy-guided interventions in terms of radioprotection? ,Place the image receptor as close as reasonably possible to the patient.,Radioprotection,ACR�AAPM TECHNICAL STANDARD FOR MANAGEMENT OF THE USE OF RADIATION IN FLUOROSCOPIC PROCEDURES,2023,None
+0,0.1,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Should retrospective or prospective ECG gating be used in CT coronary angiography to minimize radiation dose?","According to the American College of Radiology (ACR) and the American Heart Association (AHA), prospective ECG gating should be used in CT coronary angiography to minimize radiation dose.",Should retrospective or prospective ECG gating be used in CT coronary angiography to minimize radiation dose?,Prospective ECG gating should be used in CT coronary angiography to minimize radiation dose.,Radioprotection,Prospective versus retrospective ECG-gated multislice CT coronary angiography: a systematic review of radiation dose and diagnostic accuracy,2012,None
+1,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Should retrospective or prospective ECG gating be used in CT coronary angiography to minimize radiation dose?","According to the American College of Radiology (ACR) and the American Association of Physicists in Medicine (AAPM), prospective ECG gating is recommended over retrospective gating to minimize radiation dose in CT coronary angiography. (ACR-AAPM-SPR Practice Parameter for the Performance of Computed Tomography Angiography (CTA) of the Coronary Arteries, 2016).",Should retrospective or prospective ECG gating be used in CT coronary angiography to minimize radiation dose?,Prospective ECG gating should be used in CT coronary angiography to minimize radiation dose.,Radioprotection,Prospective versus retrospective ECG-gated multislice CT coronary angiography: a systematic review of radiation dose and diagnostic accuracy,2012,None
+2,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Should retrospective or prospective ECG gating be used in CT coronary angiography to minimize radiation dose?","According to the American College of Radiology (ACR) and American Heart Association (AHA) guidelines, prospective ECG gating is recommended over retrospective ECG gating in CT coronary angiography to minimize radiation dose.",Should retrospective or prospective ECG gating be used in CT coronary angiography to minimize radiation dose?,Prospective ECG gating should be used in CT coronary angiography to minimize radiation dose.,Radioprotection,Prospective versus retrospective ECG-gated multislice CT coronary angiography: a systematic review of radiation dose and diagnostic accuracy,2012,None
+3,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Should retrospective or prospective ECG gating be used in CT coronary angiography to minimize radiation dose?","According to the American College of Radiology (ACR) and the Society of Cardiovascular Computed Tomography (SCCT), prospective ECG gating is recommended over retrospective gating to minimize radiation dose in CT coronary angiography.",Should retrospective or prospective ECG gating be used in CT coronary angiography to minimize radiation dose?,Prospective ECG gating should be used in CT coronary angiography to minimize radiation dose.,Radioprotection,Prospective versus retrospective ECG-gated multislice CT coronary angiography: a systematic review of radiation dose and diagnostic accuracy,2012,None
+4,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Should retrospective or prospective ECG gating be used in CT coronary angiography to minimize radiation dose?","According to the ACR (American College of Radiology) 2020 guidelines, prospective ECG gating is recommended over retrospective gating in CT coronary angiography to minimize radiation dose.",Should retrospective or prospective ECG gating be used in CT coronary angiography to minimize radiation dose?,Prospective ECG gating should be used in CT coronary angiography to minimize radiation dose.,Radioprotection,Prospective versus retrospective ECG-gated multislice CT coronary angiography: a systematic review of radiation dose and diagnostic accuracy,2012,None
+5,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Should retrospective or prospective ECG gating be used in CT coronary angiography to minimize radiation dose?","According to the American College of Radiology (ACR) and the American Heart Association (AHA), prospective ECG gating should be used in CT coronary angiography to minimize radiation dose.",Should retrospective or prospective ECG gating be used in CT coronary angiography to minimize radiation dose?,Prospective ECG gating should be used in CT coronary angiography to minimize radiation dose.,Radioprotection,Prospective versus retrospective ECG-gated multislice CT coronary angiography: a systematic review of radiation dose and diagnostic accuracy,2012,None
+6,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Should retrospective or prospective ECG gating be used in CT coronary angiography to minimize radiation dose?","According to the American College of Radiology (ACR) and the Society of Cardiovascular Computed Tomography (SCCT), prospective ECG gating is recommended over retrospective ECG gating for CT coronary angiography to minimize radiation dose. [1]
+
+Reference:
+[1] ACR-SCCT-SCMR-STS Practice Parameter for the Performance and Interpretation of Cardiac Computed Tomography (CCT).",Should retrospective or prospective ECG gating be used in CT coronary angiography to minimize radiation dose?,Prospective ECG gating should be used in CT coronary angiography to minimize radiation dose.,Radioprotection,Prospective versus retrospective ECG-gated multislice CT coronary angiography: a systematic review of radiation dose and diagnostic accuracy,2012,None
+7,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Should retrospective or prospective ECG gating be used in CT coronary angiography to minimize radiation dose?","According to the ACR–ASNR–SPR Practice Parameter for the Performance of Computed Tomography (CT) Perfusion Imaging, ""ECG-gated acquisitions are preferred, with a prospectively gated technique generally being more dose-efficient than retrospectively gated techniques."" (American College of Radiology, 2020)
+
+So, prospective ECG gating should be used.",Should retrospective or prospective ECG gating be used in CT coronary angiography to minimize radiation dose?,Prospective ECG gating should be used in CT coronary angiography to minimize radiation dose.,Radioprotection,Prospective versus retrospective ECG-gated multislice CT coronary angiography: a systematic review of radiation dose and diagnostic accuracy,2012,None
+8,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Should retrospective or prospective ECG gating be used in CT coronary angiography to minimize radiation dose?","According to the American College of Radiology (ACR) and the American Heart Association (AHA), prospective ECG gating is recommended over retrospective gating to minimize radiation dose in CT coronary angiography.",Should retrospective or prospective ECG gating be used in CT coronary angiography to minimize radiation dose?,Prospective ECG gating should be used in CT coronary angiography to minimize radiation dose.,Radioprotection,Prospective versus retrospective ECG-gated multislice CT coronary angiography: a systematic review of radiation dose and diagnostic accuracy,2012,None
+9,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Should retrospective or prospective ECG gating be used in CT coronary angiography to minimize radiation dose?","According to the American College of Radiology (ACR) and the National Electrical Manufacturers Association (NEMA), prospective ECG gating should be used in CT coronary angiography to minimize radiation dose. 
+
+Source: ACR–NEMA Standard for Digital Imaging and Communications in Medicine (DICOM), Supplement 30, and the ACR Practice Parameter for Coronary Artery Computed Tomographic Angiography.",Should retrospective or prospective ECG gating be used in CT coronary angiography to minimize radiation dose?,Prospective ECG gating should be used in CT coronary angiography to minimize radiation dose.,Radioprotection,Prospective versus retrospective ECG-gated multislice CT coronary angiography: a systematic review of radiation dose and diagnostic accuracy,2012,None
+10,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Should retrospective or prospective ECG gating be used in CT coronary angiography to minimize radiation dose?","According to the American College of Radiology (ACR) and the American Association of Physicists in Medicine (AAPM), prospective ECG gating should be used in CT coronary angiography to minimize radiation dose. (Source: ACR-AAPM Technical Standard for Diagnostic Medical Physics Performance Monitoring of Computed Tomography (CT) Equipment, 2020; AAPM Report No. 96, 2017)",Should retrospective or prospective ECG gating be used in CT coronary angiography to minimize radiation dose?,Prospective ECG gating should be used in CT coronary angiography to minimize radiation dose.,Radioprotection,Prospective versus retrospective ECG-gated multislice CT coronary angiography: a systematic review of radiation dose and diagnostic accuracy,2012,None
+0,0.1,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the recommended CTDIvol diagnostic reference value for a non-enhanced head CT scan of a 1.5 year old patient? ","According to the American College of Radiology (ACR) and the American Association of Physicists in Medicine (AAPM), the recommended CTDIvol diagnostic reference level for a non-contrast head CT scan of a pediatric patient is:
+
+* For patients <2 years: 20 mGy or less.
+
+Source: ACR-AAPM Technical Standard for Diagnostic Medical Physics Performance Monitoring of Computed Tomography Equipment, 2020.",What is the recommended CTDIvol diagnostic reference value for a non-enhanced head CT scan of a 1.5 year old patient? ,27 mGy,Radioprotection, CR�AAPM�SPR PRACTICE PARAMETER FOR DIAGNOSTIC REFERENCE LEVELS AND ACHIEVABLE DOSES IN MEDICAL X-RAY IMAGING,2023,None
+1,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the recommended CTDIvol diagnostic reference value for a non-enhanced head CT scan of a 1.5 year old patient? ","According to the ACR-SPR Practice Parameter for Imaging Recommendations (2018) and the American College of Radiology (ACR) Diagnostic Reference Levels (DRLs), the recommended CTDIvol diagnostic reference value for a non-enhanced head CT scan of a pediatric patient under 2 years old is approximately 20 mGy.",What is the recommended CTDIvol diagnostic reference value for a non-enhanced head CT scan of a 1.5 year old patient? ,27 mGy,Radioprotection, CR�AAPM�SPR PRACTICE PARAMETER FOR DIAGNOSTIC REFERENCE LEVELS AND ACHIEVABLE DOSES IN MEDICAL X-RAY IMAGING,2023,None
+2,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the recommended CTDIvol diagnostic reference value for a non-enhanced head CT scan of a 1.5 year old patient? ","According to the ACR (American College of Radiology) and Image Wisely, the recommended CTDIvol diagnostic reference level for a non-contrast head CT in a pediatric patient is:
+
+* For an infant (0-1 year): 20 mGy
+* For a young child (1-5 years): 15 mGy
+
+So, for a 1.5-year-old patient: 15 mGy",What is the recommended CTDIvol diagnostic reference value for a non-enhanced head CT scan of a 1.5 year old patient? ,27 mGy,Radioprotection, CR�AAPM�SPR PRACTICE PARAMETER FOR DIAGNOSTIC REFERENCE LEVELS AND ACHIEVABLE DOSES IN MEDICAL X-RAY IMAGING,2023,None
+3,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the recommended CTDIvol diagnostic reference value for a non-enhanced head CT scan of a 1.5 year old patient? ","According to the American College of Radiology (ACR) and the Radiological Society of North America (RSNA), the recommended Computed Tomography Dose Index (CTDIvol) diagnostic reference value for a non-enhanced head CT scan of a pediatric patient is:
+
+* For patients <2 years old: ≤375 mGy",What is the recommended CTDIvol diagnostic reference value for a non-enhanced head CT scan of a 1.5 year old patient? ,27 mGy,Radioprotection, CR�AAPM�SPR PRACTICE PARAMETER FOR DIAGNOSTIC REFERENCE LEVELS AND ACHIEVABLE DOSES IN MEDICAL X-RAY IMAGING,2023,None
+4,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the recommended CTDIvol diagnostic reference value for a non-enhanced head CT scan of a 1.5 year old patient? ","According to the American College of Radiology (ACR) and the National Electrical Manufacturers Association (NEMA), the recommended CTDIvol (Computed Tomography Dose Index Volume) diagnostic reference level (DRL) for a non-enhanced head CT scan in a pediatric patient is not directly provided by age, but rather by size.
+
+However, using the ACR's Dose Index Registry and referring to the ""ACR–AAPM Technical Standard for Diagnostic Medical Physics Performance Monitoring of Computed Tomography Equipment"" from 2020:
+
+For patients under 60 pounds (27 kg or roughly 3 years), a CTDIvol ≤25 mGy is recommended.
+
+Please note that a weight-based approximation has been used here, which might not fully reflect the patient's size. For more accurate recommendations, please consult a qualified medical physicist and/or refer to the latest guidelines directly from ACR or other applicable governing bodies for CT scanning in pediatric patients.",What is the recommended CTDIvol diagnostic reference value for a non-enhanced head CT scan of a 1.5 year old patient? ,27 mGy,Radioprotection, CR�AAPM�SPR PRACTICE PARAMETER FOR DIAGNOSTIC REFERENCE LEVELS AND ACHIEVABLE DOSES IN MEDICAL X-RAY IMAGING,2023,None
+5,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the recommended CTDIvol diagnostic reference value for a non-enhanced head CT scan of a 1.5 year old patient? ","According to the American College of Radiology (ACR) and the Radiological Society of North America (RSNA), as of my last update, the recommended Computed Tomography Dose Index Volume (CTDIvol) diagnostic reference value for a non-enhanced head CT scan of a 1.5-year-old patient is not explicitly listed but can be inferred from guidelines aimed at minimizing radiation exposure in pediatric patients.
+
+The ACR-SPR Practice Parameter for Imaging Use in Pediatric Trauma, and the Image Gently campaign suggest adjusting the CTDIvol based on the child's size or age. For a head CT, which typically has a lower dose than other CT scans due to the smaller area being imaged, a general recommendation might be around 20 mGy for children under 3 years old.
+
+However, since specific details can evolve with updates in guidelines and considering the variability depending on the institution and the machine used, referring directly to current ACR or Image Gently resources is advisable.",What is the recommended CTDIvol diagnostic reference value for a non-enhanced head CT scan of a 1.5 year old patient? ,27 mGy,Radioprotection, CR�AAPM�SPR PRACTICE PARAMETER FOR DIAGNOSTIC REFERENCE LEVELS AND ACHIEVABLE DOSES IN MEDICAL X-RAY IMAGING,2023,None
+6,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the recommended CTDIvol diagnostic reference value for a non-enhanced head CT scan of a 1.5 year old patient? ","According to the ACR-SPR Practice Parameter for Imaging Examination of the Pediatric Patient (2020), the recommended CTDIvol diagnostic reference value for a non-enhanced head CT scan in pediatric patients is:
+
+* 300 mGy or less for children under 2 years old.
+
+Source: American College of Radiology (ACR) and Society for Pediatric Radiology (SPR).",What is the recommended CTDIvol diagnostic reference value for a non-enhanced head CT scan of a 1.5 year old patient? ,27 mGy,Radioprotection, CR�AAPM�SPR PRACTICE PARAMETER FOR DIAGNOSTIC REFERENCE LEVELS AND ACHIEVABLE DOSES IN MEDICAL X-RAY IMAGING,2023,None
+7,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the recommended CTDIvol diagnostic reference value for a non-enhanced head CT scan of a 1.5 year old patient? ","According to the American College of Radiology (ACR) and the Radiological Society of North America (RSNA), as of my last update in April 2023, the recommended Computed Tomography Dose Index Volume (CTDIvol) diagnostic reference value for a non-enhanced head CT scan is not specifically tailored by age but rather by exam type. However, guidelines suggest adjusting doses based on patient size.
+
+For pediatric patients, including those as young as 1.5 years old undergoing non-contrast head CT scans, the ACR and other professional bodies advocate for using Size-Specific Dose Estimates (SSDE) instead of CTDIvol whenever possible. SSDE takes into account the specific dimensions of each patient to estimate dose more accurately.
+
+For general guidance on pediatric imaging doses, institutions are encouraged to use the American Association of Physicists in Medicine's (AAPM) report No. 204 for size-specific dose estimates. This document provides a method for estimating organ and effective doses from SSDEs, which can be used to optimize CT protocols in children.
+
+However, if you strictly need CTDIvol values as references, historical data might suggest reference levels for non-contrast head scans around or below 30 mGy (the unit is typically given in milligrays [mGy], but note that the use of this value directly from older guidelines without adjustment by patient size should be approached cautiously). The actual recommended dose would need to consider the latest evidence and professional guidance specific to pediatric imaging, focusing on minimizing doses while maintaining diagnostic efficacy.",What is the recommended CTDIvol diagnostic reference value for a non-enhanced head CT scan of a 1.5 year old patient? ,27 mGy,Radioprotection, CR�AAPM�SPR PRACTICE PARAMETER FOR DIAGNOSTIC REFERENCE LEVELS AND ACHIEVABLE DOSES IN MEDICAL X-RAY IMAGING,2023,None
+8,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the recommended CTDIvol diagnostic reference value for a non-enhanced head CT scan of a 1.5 year old patient? ","According to the ACR-ACNM Practice Parameter for Performing and Interpreting Diagnostic Computed Tomography (CT) - 2018, as well as the FDA's guidance on CTDIvol diagnostic reference values (DRR), the recommended CTDIvol DRR for a non-enhanced head CT scan of a pediatric patient weighing between 10-23 kg is 25 mGy.",What is the recommended CTDIvol diagnostic reference value for a non-enhanced head CT scan of a 1.5 year old patient? ,27 mGy,Radioprotection, CR�AAPM�SPR PRACTICE PARAMETER FOR DIAGNOSTIC REFERENCE LEVELS AND ACHIEVABLE DOSES IN MEDICAL X-RAY IMAGING,2023,None
+9,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the recommended CTDIvol diagnostic reference value for a non-enhanced head CT scan of a 1.5 year old patient? ","According to the American College of Radiology (ACR) and the Radiological Society of North America (RSNA), as well as the National Council on Radiation Protection and Measurements (NCRP) Report No. 172, for pediatric patients:
+
+For a non-enhanced head CT scan, the diagnostic reference level for CTDIvol is:
+ 
+* For a child aged 1-2 years: 20 mGy",What is the recommended CTDIvol diagnostic reference value for a non-enhanced head CT scan of a 1.5 year old patient? ,27 mGy,Radioprotection, CR�AAPM�SPR PRACTICE PARAMETER FOR DIAGNOSTIC REFERENCE LEVELS AND ACHIEVABLE DOSES IN MEDICAL X-RAY IMAGING,2023,None
+10,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the recommended CTDIvol diagnostic reference value for a non-enhanced head CT scan of a 1.5 year old patient? ","According to the American College of Radiology (ACR) and the American Association of Physicists in Medicine (AAPM), the recommended CTDIvol Diagnostic Reference Level (DRL) for a non-contrast head CT scan for patients <2 years old is ≤375 mGy.",What is the recommended CTDIvol diagnostic reference value for a non-enhanced head CT scan of a 1.5 year old patient? ,27 mGy,Radioprotection, CR�AAPM�SPR PRACTICE PARAMETER FOR DIAGNOSTIC REFERENCE LEVELS AND ACHIEVABLE DOSES IN MEDICAL X-RAY IMAGING,2023,None
+0,0.1,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+According to the ACR, which Gadolinium-based contrast media is contraindicated in patients with eGFR of <30mL/min/1.73m2 with regards to development of NSF?","According to the American College of Radiology (ACR) guidelines, the following gadolinium-based contrast media are contraindicated in patients with an estimated glomerular filtration rate (eGFR) of <30 mL/min/1.73m² due to the risk of nephrogenic systemic fibrosis (NSF):
+
+* Gadopentetate dimeglimine (Magnevist)
+* Gadodiamide (Omniscan)
+* Gadoversetamide (OptiMARK)
+
+Note: These guidelines are subject to change, and it's essential to consult the latest ACR guidelines for the most up-to-date information.","According to the ACR, which Gadolinium-based contrast media is contraindicated in patients with eGFR of <30mL/min/1.73m2 with regards to development of NSF?","Group I GBCM:
+- Gadodiamide (Omniscan)
+- Gadopentetate dimeglumine (Magnevist)
+- Gadoversetamide (OptiMARK)",Medication and Contrast agent,ACR Manual on Contrast Media,2024,None
+1,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+According to the ACR, which Gadolinium-based contrast media is contraindicated in patients with eGFR of <30mL/min/1.73m2 with regards to development of NSF?","According to the American College of Radiology (ACR) and as stated in the ACR Manual on Contrast Media, version 2022:
+
+The following Gadolinium-based contrast media are contraindicated in patients with eGFR <30 mL/min/1.73m² regarding development of NSF:
+
+- Gadodiamide (Omniscan)
+- Gadopentetate dimeg lumine (Magnevist)","According to the ACR, which Gadolinium-based contrast media is contraindicated in patients with eGFR of <30mL/min/1.73m2 with regards to development of NSF?","Group I GBCM:
+- Gadodiamide (Omniscan)
+- Gadopentetate dimeglumine (Magnevist)
+- Gadoversetamide (OptiMARK)",Medication and Contrast agent,ACR Manual on Contrast Media,2024,None
+2,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+According to the ACR, which Gadolinium-based contrast media is contraindicated in patients with eGFR of <30mL/min/1.73m2 with regards to development of NSF?","According to the American College of Radiology (ACR) guidelines, Gadopentetate dimeglimine (Magnevist), Gadodiamide (Omniscan), and Gadoversetamide (OptiMARK) are contraindicated in patients with an estimated glomerular filtration rate (eGFR) of less than 30 mL/min/1.73m^2 due to the risk of Nephrogenic Systemic Fibrosis (NSF).","According to the ACR, which Gadolinium-based contrast media is contraindicated in patients with eGFR of <30mL/min/1.73m2 with regards to development of NSF?","Group I GBCM:
+- Gadodiamide (Omniscan)
+- Gadopentetate dimeglumine (Magnevist)
+- Gadoversetamide (OptiMARK)",Medication and Contrast agent,ACR Manual on Contrast Media,2024,None
+3,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+According to the ACR, which Gadolinium-based contrast media is contraindicated in patients with eGFR of <30mL/min/1.73m2 with regards to development of NSF?","According to the American College of Radiology (ACR), Gadopentetate dimeglimine (Magnevist), Gadodiamide (Omniscan), and Gadoversetamide (OptiMARK) are contraindicated in patients with eGFR <30mL/min/1.73m2 due to the risk of developing Nephrogenic Systemic Fibrosis (NSF).","According to the ACR, which Gadolinium-based contrast media is contraindicated in patients with eGFR of <30mL/min/1.73m2 with regards to development of NSF?","Group I GBCM:
+- Gadodiamide (Omniscan)
+- Gadopentetate dimeglumine (Magnevist)
+- Gadoversetamide (OptiMARK)",Medication and Contrast agent,ACR Manual on Contrast Media,2024,None
+4,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+According to the ACR, which Gadolinium-based contrast media is contraindicated in patients with eGFR of <30mL/min/1.73m2 with regards to development of NSF?","According to the American College of Radiology (ACR) guidelines, the following gadolinium-based contrast media are contraindicated in patients with an estimated glomerular filtration rate (eGFR) of <30 mL/min/1.73m² due to the risk of nephrogenic systemic fibrosis (NSF):
+
+* Omniscan (gadodiamide)
+* Magnevist (gadopentetate dimeglimine)
+* Optimark (gadoversetamide)
+
+Note that these guidelines are subject to change, and it is always best to consult the most current ACR guidelines for specific recommendations.","According to the ACR, which Gadolinium-based contrast media is contraindicated in patients with eGFR of <30mL/min/1.73m2 with regards to development of NSF?","Group I GBCM:
+- Gadodiamide (Omniscan)
+- Gadopentetate dimeglumine (Magnevist)
+- Gadoversetamide (OptiMARK)",Medication and Contrast agent,ACR Manual on Contrast Media,2024,None
+5,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+According to the ACR, which Gadolinium-based contrast media is contraindicated in patients with eGFR of <30mL/min/1.73m2 with regards to development of NSF?","According to the American College of Radiology (ACR), all gadolinium-based contrast agents are contraindicated in patients with an estimated glomerular filtration rate (eGFR) of less than 30 mL/min/1.73 m², except for those where a specific agent has been deemed safe by the manufacturer or FDA.
+
+The ACR specifically recommends avoiding:
+
+- Gadopentetate dimegplumine (Magnevist)
+- Gadodiamide (Omniscan)
+
+However, the use of:
+ 
+- Gadoxetate (Eovist) and
+- Gadobenate (Multihance) 
+
+is permitted with caution.
+
+- Gadoteridol (Prohance), 
+- Gadoverestamide (OptiMARK),
+- Gadopentetic acid (Magnevist, generic)
+
+are considered low-risk agents.","According to the ACR, which Gadolinium-based contrast media is contraindicated in patients with eGFR of <30mL/min/1.73m2 with regards to development of NSF?","Group I GBCM:
+- Gadodiamide (Omniscan)
+- Gadopentetate dimeglumine (Magnevist)
+- Gadoversetamide (OptiMARK)",Medication and Contrast agent,ACR Manual on Contrast Media,2024,None
+6,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+According to the ACR, which Gadolinium-based contrast media is contraindicated in patients with eGFR of <30mL/min/1.73m2 with regards to development of NSF?","According to the American College of Radiology (ACR) guidelines, the following gadolinium-based contrast agents are contraindicated in patients with an estimated glomerular filtration rate (eGFR) of <30 mL/min/1.73 m^2 due to the risk of nephrogenic systemic fibrosis (NSF):
+
+* Gadodiamide (Omniscan)
+* Gadopentetate dimeglimine (Magnevist)
+* Gadoversetamide (OptiMARK)
+
+However, it is essential to note that guidelines may change over time.","According to the ACR, which Gadolinium-based contrast media is contraindicated in patients with eGFR of <30mL/min/1.73m2 with regards to development of NSF?","Group I GBCM:
+- Gadodiamide (Omniscan)
+- Gadopentetate dimeglumine (Magnevist)
+- Gadoversetamide (OptiMARK)",Medication and Contrast agent,ACR Manual on Contrast Media,2024,None
+7,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+According to the ACR, which Gadolinium-based contrast media is contraindicated in patients with eGFR of <30mL/min/1.73m2 with regards to development of NSF?","According to the American College of Radiology (ACR) guidelines, the following gadolinium-based contrast media are contraindicated in patients with an estimated glomerular filtration rate (eGFR) of <30 mL/min/1.73 m2 due to the risk of nephrogenic systemic fibrosis (NSF):
+
+* Gadopentetate dimeglimine (Magnevist)
+* Gadodiamide (Omniscan)
+* Gadoversetamide (OptiMARK)
+
+Note that these guidelines are subject to change, and it is essential to consult the most current ACR guidelines for the most up-to-date information.","According to the ACR, which Gadolinium-based contrast media is contraindicated in patients with eGFR of <30mL/min/1.73m2 with regards to development of NSF?","Group I GBCM:
+- Gadodiamide (Omniscan)
+- Gadopentetate dimeglumine (Magnevist)
+- Gadoversetamide (OptiMARK)",Medication and Contrast agent,ACR Manual on Contrast Media,2024,None
+8,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+According to the ACR, which Gadolinium-based contrast media is contraindicated in patients with eGFR of <30mL/min/1.73m2 with regards to development of NSF?","According to the American College of Radiology (ACR) guidelines, the following gadolinium-based contrast media are contraindicated in patients with an estimated glomerular filtration rate (eGFR) of <30 mL/min/1.73 m² due to risk of nephrogenic systemic fibrosis (NSF):
+
+* Gadopentetate dimeglimine (Magnevist)
+* Gadodiamide (Omniscan)
+* Gadoversetamide (OptiMARK)
+
+Please note that guidelines are subject to change and may be updated.","According to the ACR, which Gadolinium-based contrast media is contraindicated in patients with eGFR of <30mL/min/1.73m2 with regards to development of NSF?","Group I GBCM:
+- Gadodiamide (Omniscan)
+- Gadopentetate dimeglumine (Magnevist)
+- Gadoversetamide (OptiMARK)",Medication and Contrast agent,ACR Manual on Contrast Media,2024,None
+9,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+According to the ACR, which Gadolinium-based contrast media is contraindicated in patients with eGFR of <30mL/min/1.73m2 with regards to development of NSF?","According to the American College of Radiology (ACR) Manual on Contrast Media, version 2022, the following gadolinium-based contrast media are contraindicated in patients with an estimated glomerular filtration rate (eGFR) of less than 30 mL/min/1.73m² due to the risk of nephrogenic systemic fibrosis (NSF):
+
+* Gadopentetate dimeg lumine (Magnevist)
+* Gadodiamide (Omniscan)
+* Gadoversetamide (OptiMARK)","According to the ACR, which Gadolinium-based contrast media is contraindicated in patients with eGFR of <30mL/min/1.73m2 with regards to development of NSF?","Group I GBCM:
+- Gadodiamide (Omniscan)
+- Gadopentetate dimeglumine (Magnevist)
+- Gadoversetamide (OptiMARK)",Medication and Contrast agent,ACR Manual on Contrast Media,2024,None
+10,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+According to the ACR, which Gadolinium-based contrast media is contraindicated in patients with eGFR of <30mL/min/1.73m2 with regards to development of NSF?","According to the American College of Radiology (ACR) guidelines, the following Gadolinium-based contrast media are contraindicated in patients with an estimated Glomerular Filtration Rate (eGFR) of <30 mL/min/1.73m² due to the risk of Nephrogenic Systemic Fibrosis (NSF):
+
+* Gd-DTPA (gadopentetate dimeglimine, Magnevist)
+* Gd-DTPB (gadobenate dimeglimine, Multihance)
+* Gd-BOPTA (gadobenate dimeglimine, MultiHance)
+* Gd-DOTA (gadoteric acid, Dotarem)
+
+However, it is worth noting that the FDA has also approved a boxed warning for all gadolinium-based contrast agents regarding the risk of NSF in patients with acute kidney injury or chronic severe kidney disease (eGFR < 30 mL/min/1.73m²).","According to the ACR, which Gadolinium-based contrast media is contraindicated in patients with eGFR of <30mL/min/1.73m2 with regards to development of NSF?","Group I GBCM:
+- Gadodiamide (Omniscan)
+- Gadopentetate dimeglumine (Magnevist)
+- Gadoversetamide (OptiMARK)",Medication and Contrast agent,ACR Manual on Contrast Media,2024,None
+0,0.1,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What are the recommendations for intravenous application of iodinated contrast media in a patient taking metformin with no evidence of acute kidney injury and an eGFR of 35 mL/min/1.73m2?","According to the American College of Radiology (ACR) Manual on Contrast Media, Version 2022:
+
+* Metformin can be continued in patients with an eGFR ≥30 mL/min/1.73 m².
+* No discontinuation or dose adjustment is recommended.
+
+Source: ACR Manual on Contrast Media, Version 2022, Section 7: ""Administration of Iodinated Contrast Media to Patients Taking Metformin""",What are the recommendations for intravenous application of iodinated contrast media in a patient taking metformin with no evidence of acute kidney injury and an eGFR of 35 mL/min/1.73m2?,"In this patient there is no need to discontinue metformin either prior to or following the intravenous administration of iodinated contrast media, nor is there an obligatory need to reassess the patient�s renal function following the test or procedure.",Medication and Contrast agent,ACR Manual on Contrast Media,2024,None
+1,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What are the recommendations for intravenous application of iodinated contrast media in a patient taking metformin with no evidence of acute kidney injury and an eGFR of 35 mL/min/1.73m2?","According to the American College of Radiology (ACR) Manual on Contrast Media, Version 2022:
+
+In patients taking metformin with an eGFR of 30-60 mL/min/1.73m², withhold metformin for at least 48 hours after contrast administration. 
+
+However, there is no recommendation to discontinue or withhold intravenous iodinated contrast media in this patient population.
+
+Note: The ACR guidelines recommend discontinuing metformin for 48 hours in patients with an eGFR <30 mL/min/1.73m².",What are the recommendations for intravenous application of iodinated contrast media in a patient taking metformin with no evidence of acute kidney injury and an eGFR of 35 mL/min/1.73m2?,"In this patient there is no need to discontinue metformin either prior to or following the intravenous administration of iodinated contrast media, nor is there an obligatory need to reassess the patient�s renal function following the test or procedure.",Medication and Contrast agent,ACR Manual on Contrast Media,2024,None
+2,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What are the recommendations for intravenous application of iodinated contrast media in a patient taking metformin with no evidence of acute kidney injury and an eGFR of 35 mL/min/1.73m2?","According to the American College of Radiology (ACR) Manual on Contrast Media, Version 2022:
+
+* Metformin can be continued in patients with an eGFR ≥ 30 mL/min/1.73 m².
+* No discontinuation or dose adjustment is necessary.
+
+Source: ACR Manual on Contrast Media, Version 2022, Section 6.",What are the recommendations for intravenous application of iodinated contrast media in a patient taking metformin with no evidence of acute kidney injury and an eGFR of 35 mL/min/1.73m2?,"In this patient there is no need to discontinue metformin either prior to or following the intravenous administration of iodinated contrast media, nor is there an obligatory need to reassess the patient�s renal function following the test or procedure.",Medication and Contrast agent,ACR Manual on Contrast Media,2024,None
+3,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What are the recommendations for intravenous application of iodinated contrast media in a patient taking metformin with no evidence of acute kidney injury and an eGFR of 35 mL/min/1.73m2?","According to the American College of Radiology (ACR) Manual on Contrast Media, version 2022:
+
+In patients with an eGFR between 30-60 mL/min/1.73m², taking metformin and without evidence of acute kidney injury, it is recommended to:
+
+* Withhold metformin for at least 48 hours after contrast administration.
+* Obtain an eGFR within 48 hours prior to the procedure.
+* Hydrate patients according to institutional protocols.
+
+Metformin can be restarted 48 hours after contrast administration if renal function has not deteriorated.",What are the recommendations for intravenous application of iodinated contrast media in a patient taking metformin with no evidence of acute kidney injury and an eGFR of 35 mL/min/1.73m2?,"In this patient there is no need to discontinue metformin either prior to or following the intravenous administration of iodinated contrast media, nor is there an obligatory need to reassess the patient�s renal function following the test or procedure.",Medication and Contrast agent,ACR Manual on Contrast Media,2024,None
+4,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What are the recommendations for intravenous application of iodinated contrast media in a patient taking metformin with no evidence of acute kidney injury and an eGFR of 35 mL/min/1.73m2?","According to the American College of Radiology (ACR) Manual on Contrast Media, Version 2022:
+
+* For patients with an eGFR of 30-59 mL/min/1.73m², taking metformin and without acute kidney injury, it is recommended to:
+	+ Withhold metformin for at least 48 hours after the contrast agent administration.
+	+ Reassess renal function 48 hours after the procedure before resuming metformin.
+
+Source: ACR Manual on Contrast Media, Version 2022, Section 7.",What are the recommendations for intravenous application of iodinated contrast media in a patient taking metformin with no evidence of acute kidney injury and an eGFR of 35 mL/min/1.73m2?,"In this patient there is no need to discontinue metformin either prior to or following the intravenous administration of iodinated contrast media, nor is there an obligatory need to reassess the patient�s renal function following the test or procedure.",Medication and Contrast agent,ACR Manual on Contrast Media,2024,None
+5,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What are the recommendations for intravenous application of iodinated contrast media in a patient taking metformin with no evidence of acute kidney injury and an eGFR of 35 mL/min/1.73m2?","According to the American College of Radiology (ACR) Manual on Contrast Media (2020), for patients taking metformin with an eGFR of 30-60 mL/min/1.73m², it is recommended to:
+
+* Withhold metformin for at least 48 hours after contrast administration.
+* Measure serum creatinine and/or eGFR 48 hours after contrast administration.
+
+No additional recommendations are made regarding the type or dose of iodinated contrast medium in this scenario.",What are the recommendations for intravenous application of iodinated contrast media in a patient taking metformin with no evidence of acute kidney injury and an eGFR of 35 mL/min/1.73m2?,"In this patient there is no need to discontinue metformin either prior to or following the intravenous administration of iodinated contrast media, nor is there an obligatory need to reassess the patient�s renal function following the test or procedure.",Medication and Contrast agent,ACR Manual on Contrast Media,2024,None
+6,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What are the recommendations for intravenous application of iodinated contrast media in a patient taking metformin with no evidence of acute kidney injury and an eGFR of 35 mL/min/1.73m2?","According to the American College of Radiology (ACR) Manual on Contrast Media, Version 2022:
+
+For patients with an eGFR between 30-60 mL/min/1.73m² taking metformin, discontinue metformin at the time of or prior to the procedure and withhold for 48 hours after the procedure. 
+
+No specific recommendations are given for eGFR below 30 mL/min/1.73m² in this context, but it is stated that 'in patients with more severe renal dysfunction (eGFR < 30 mL/min/1.73m2), there may be a higher risk of lactic acidosis with metformin and contrast media'.",What are the recommendations for intravenous application of iodinated contrast media in a patient taking metformin with no evidence of acute kidney injury and an eGFR of 35 mL/min/1.73m2?,"In this patient there is no need to discontinue metformin either prior to or following the intravenous administration of iodinated contrast media, nor is there an obligatory need to reassess the patient�s renal function following the test or procedure.",Medication and Contrast agent,ACR Manual on Contrast Media,2024,None
+7,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What are the recommendations for intravenous application of iodinated contrast media in a patient taking metformin with no evidence of acute kidney injury and an eGFR of 35 mL/min/1.73m2?","According to the American College of Radiology (ACR) Manual on Contrast Media, Version 2022:
+
+In patients with eGFR between 30-60 mL/min/1.73m², metformin can be continued in the absence of acute kidney injury.
+
+No specific recommendations are made for dose adjustment or discontinuation of metformin before intravenous iodinated contrast media administration at this level of renal function.
+
+Source: ACR Manual on Contrast Media, Version 2022, Section 7: ""Administration of Contrast Media to Patients with Renal Impairment""",What are the recommendations for intravenous application of iodinated contrast media in a patient taking metformin with no evidence of acute kidney injury and an eGFR of 35 mL/min/1.73m2?,"In this patient there is no need to discontinue metformin either prior to or following the intravenous administration of iodinated contrast media, nor is there an obligatory need to reassess the patient�s renal function following the test or procedure.",Medication and Contrast agent,ACR Manual on Contrast Media,2024,None
+8,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What are the recommendations for intravenous application of iodinated contrast media in a patient taking metformin with no evidence of acute kidney injury and an eGFR of 35 mL/min/1.73m2?","According to the American College of Radiology (ACR) Manual on Contrast Media, version 2022:
+
+For patients taking metformin with an eGFR of 30-60 mL/min/1.73m^2 and no evidence of acute kidney injury:
+
+* Metformin can be continued.
+* No specific recommendations for dose adjustment or withdrawal are provided.
+
+Please note that these guidelines may change over time, and it's always best to consult the most recent version of the ACR Manual on Contrast Media for up-to-date information.",What are the recommendations for intravenous application of iodinated contrast media in a patient taking metformin with no evidence of acute kidney injury and an eGFR of 35 mL/min/1.73m2?,"In this patient there is no need to discontinue metformin either prior to or following the intravenous administration of iodinated contrast media, nor is there an obligatory need to reassess the patient�s renal function following the test or procedure.",Medication and Contrast agent,ACR Manual on Contrast Media,2024,None
+9,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What are the recommendations for intravenous application of iodinated contrast media in a patient taking metformin with no evidence of acute kidney injury and an eGFR of 35 mL/min/1.73m2?","According to the ACR Manual on Contrast Media (2022), in patients taking metformin with an eGFR between 30-60 mL/min/1.73m², metformin can be continued after iodinated contrast media administration without interruption, as long as there is no acute kidney injury.",What are the recommendations for intravenous application of iodinated contrast media in a patient taking metformin with no evidence of acute kidney injury and an eGFR of 35 mL/min/1.73m2?,"In this patient there is no need to discontinue metformin either prior to or following the intravenous administration of iodinated contrast media, nor is there an obligatory need to reassess the patient�s renal function following the test or procedure.",Medication and Contrast agent,ACR Manual on Contrast Media,2024,None
+10,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What are the recommendations for intravenous application of iodinated contrast media in a patient taking metformin with no evidence of acute kidney injury and an eGFR of 35 mL/min/1.73m2?","According to the American College of Radiology (ACR) Manual on Contrast Media, version 2020:
+
+""In patients taking metformin, discontinue metformin at the time of or prior to the procedure and withhold it for 48 hours after the procedure if the eGFR is <60 mL/min/1.73m2.""
+
+Since your patient's eGFR is 35 mL/min/1.73m2, you should discontinue metformin at the time of or prior to the procedure and withhold it for 48 hours afterwards.",What are the recommendations for intravenous application of iodinated contrast media in a patient taking metformin with no evidence of acute kidney injury and an eGFR of 35 mL/min/1.73m2?,"In this patient there is no need to discontinue metformin either prior to or following the intravenous administration of iodinated contrast media, nor is there an obligatory need to reassess the patient�s renal function following the test or procedure.",Medication and Contrast agent,ACR Manual on Contrast Media,2024,None
+0,0.1,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Name two common drugs that may reduce bowel movement in pelvic MRI.","According to the American College of Radiology (ACR) and the Radiological Society of North America (RSNA), two common drugs that may be used to reduce bowel movement during a pelvic MRI are:
+
+1. Glucagon
+2. Buscopan (also known as Butylscopolamine or Scopolamine butylbromide)",Name two common drugs that may reduce bowel movement in pelvic MRI.,Butylscopolamine and Glucagon,Medication and Contrast agent,Radiopaedia,,None
+1,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Name two common drugs that may reduce bowel movement in pelvic MRI.","According to the American College of Radiology (ACR) and the Radiological Society of North America (RSNA), two common drugs that may be used to reduce bowel movement during a pelvic MRI are:
+
+1. Glucagon
+2. Buscopan (or hyoscyamine)
+
+Please note that these medications should only be administered under medical supervision.",Name two common drugs that may reduce bowel movement in pelvic MRI.,Butylscopolamine and Glucagon,Medication and Contrast agent,Radiopaedia,,None
+2,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Name two common drugs that may reduce bowel movement in pelvic MRI.","According to the American College of Radiology (ACR) and the Society of Abdominal Imaging (SAI), two common drugs that may be administered to reduce bowel movement during a pelvic MRI are:
+
+1. Glucagon
+2. Buscopan (or Scopolamine)",Name two common drugs that may reduce bowel movement in pelvic MRI.,Butylscopolamine and Glucagon,Medication and Contrast agent,Radiopaedia,,None
+3,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Name two common drugs that may reduce bowel movement in pelvic MRI.","According to the ACR (American College of Radiology) guidelines, the following two medications can be used to decrease bowel motion during a pelvic MRI:
+
+1. Glucagon
+2. Hyoscyamine",Name two common drugs that may reduce bowel movement in pelvic MRI.,Butylscopolamine and Glucagon,Medication and Contrast agent,Radiopaedia,,None
+4,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Name two common drugs that may reduce bowel movement in pelvic MRI.","According to the American College of Radiology (ACR) and the Radiological Society of North America (RSNA), two common drugs that may be used to reduce bowel movement during a pelvic MRI are:
+
+1. Glucagon
+2. Buscopan (also known as Butylscopolamine or Hyoscine butylbromide)
+
+These medications can help relax the smooth muscle in the bowel, reducing peristalsis and motion artifacts during the imaging procedure.",Name two common drugs that may reduce bowel movement in pelvic MRI.,Butylscopolamine and Glucagon,Medication and Contrast agent,Radiopaedia,,None
+5,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Name two common drugs that may reduce bowel movement in pelvic MRI.","According to the American College of Radiology (ACR) and Radiological Society of North America (RSNA), the following medications can be used to reduce bowel motion during a pelvic MRI:
+
+1. Glucagon
+2. Hyoscyamine",Name two common drugs that may reduce bowel movement in pelvic MRI.,Butylscopolamine and Glucagon,Medication and Contrast agent,Radiopaedia,,None
+6,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Name two common drugs that may reduce bowel movement in pelvic MRI.","According to the American College of Radiology (ACR) guidelines, two common drugs that may reduce bowel movement in pelvic MRI are:
+
+1. Glucagon
+2. Hyoscyamine sulfate (e.g., Levsin)",Name two common drugs that may reduce bowel movement in pelvic MRI.,Butylscopolamine and Glucagon,Medication and Contrast agent,Radiopaedia,,None
+7,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Name two common drugs that may reduce bowel movement in pelvic MRI.","According to the American College of Radiology (ACR) and the Radiological Society of North America (RSNA), two common drugs used to reduce bowel movement during a pelvic MRI are:
+
+1. Glucagon
+2. Buscopan (also known as hyoscyamine or scopolamine butylbromide)",Name two common drugs that may reduce bowel movement in pelvic MRI.,Butylscopolamine and Glucagon,Medication and Contrast agent,Radiopaedia,,None
+8,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Name two common drugs that may reduce bowel movement in pelvic MRI.","According to the American College of Radiology (ACR) and the Radiological Society of North America (RSNA), two common drugs used to reduce bowel movement during a pelvic MRI are:
+
+1. Glucagon
+2. Buscopan (also known as Scopolamine or Hyoscine)",Name two common drugs that may reduce bowel movement in pelvic MRI.,Butylscopolamine and Glucagon,Medication and Contrast agent,Radiopaedia,,None
+9,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Name two common drugs that may reduce bowel movement in pelvic MRI.","According to the ACR (American College of Radiology) guidelines, two common drugs that may be used to reduce bowel movement during a pelvic MRI are:
+
+1. Glucagon
+2. Buscopan (also known as Butylscopolamine or Hyoscine butylbromide)",Name two common drugs that may reduce bowel movement in pelvic MRI.,Butylscopolamine and Glucagon,Medication and Contrast agent,Radiopaedia,,None
+10,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Name two common drugs that may reduce bowel movement in pelvic MRI.","According to the American College of Radiology (ACR) guidelines, two common drugs that may be used to reduce bowel movement during a pelvic MRI are:
+
+1. Glucagon
+2. Hyoscyamine",Name two common drugs that may reduce bowel movement in pelvic MRI.,Butylscopolamine and Glucagon,Medication and Contrast agent,Radiopaedia,,None
+0,0.1,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the difference between Gadobutrol and Gadoxetate disodium in terms of excretion?","According to the FDA-approved prescribing information, the main differences between Gadobutrol (Gadavist) and Gadoxetate disodium (Eovist) in terms of excretion are:
+
+* Gadobutrol: Excreted primarily by the kidneys (> 90%).
+* Gadoxetate disodium: Undergoes hepatobiliary excretion, with approximately 50-70% excreted in the feces and 5-10% in the urine.",What is the difference between Gadobutrol and Gadoxetate disodium in terms of excretion?,Gadobutrol is excreted entirely via the kidneys. Gadoxetate disodium is excreted through both the liver (50%) and kidneys (50%).,Medication and Contrast agent,Radiopaedia,,None
+1,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the difference between Gadobutrol and Gadoxetate disodium in terms of excretion?","According to the current FDA-approved labeling, 
+
+Gadobutrol (Gadavist) is primarily excreted through the kidneys.
+
+Gadoxetate disodium (Eovist) has a dual-excretion pathway: it is eliminated both hepatobiliary (approximately 50% of the dose) and renally (approximately 50% of the dose).",What is the difference between Gadobutrol and Gadoxetate disodium in terms of excretion?,Gadobutrol is excreted entirely via the kidneys. Gadoxetate disodium is excreted through both the liver (50%) and kidneys (50%).,Medication and Contrast agent,Radiopaedia,,None
+2,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the difference between Gadobutrol and Gadoxetate disodium in terms of excretion?","According to the FDA-approved prescribing information, the main difference in excretion between Gadobutrol (Gadavist) and Gadoxetate disodium (Eovist) is:
+
+* Gadobutrol: Excreted primarily via kidneys.
+* Gadoxetate disodium: Excreted via a combination of hepatobiliary (50-60%) and renal excretion.",What is the difference between Gadobutrol and Gadoxetate disodium in terms of excretion?,Gadobutrol is excreted entirely via the kidneys. Gadoxetate disodium is excreted through both the liver (50%) and kidneys (50%).,Medication and Contrast agent,Radiopaedia,,None
+3,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the difference between Gadobutrol and Gadoxetate disodium in terms of excretion?","According to the FDA-approved labeling, the main difference between Gadobutrol (Gadavist) and Gadoxetate disodium (Eovist) in terms of excretion is that:
+
+* Gadobutrol is primarily excreted via the kidneys (~80-90%).
+* Gadoxetate disodium is primarily taken up by functioning hepatocytes and then excreted into the bile, with subsequent elimination in the feces (~50-60%), while a smaller fraction is excreted via the kidneys (~20-30%).",What is the difference between Gadobutrol and Gadoxetate disodium in terms of excretion?,Gadobutrol is excreted entirely via the kidneys. Gadoxetate disodium is excreted through both the liver (50%) and kidneys (50%).,Medication and Contrast agent,Radiopaedia,,None
+4,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the difference between Gadobutrol and Gadoxetate disodium in terms of excretion?","According to the current FDA-approved labels, Gadobutrol (Gadavist) is primarily excreted via the kidneys (>90% renal excretion), whereas Gadoxetate disodium (Eovist/Primovist) has a dual-excretion pathway, with approximately 50% excreted renally and 50% excreted into the bile.",What is the difference between Gadobutrol and Gadoxetate disodium in terms of excretion?,Gadobutrol is excreted entirely via the kidneys. Gadoxetate disodium is excreted through both the liver (50%) and kidneys (50%).,Medication and Contrast agent,Radiopaedia,,None
+5,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the difference between Gadobutrol and Gadoxetate disodium in terms of excretion?","According to the FDA-approved labels, 
+
+* Gadobutrol (Gadavist) is primarily eliminated via the kidneys. 
+* Gadoxetate disodium (Eovist) has a dual excretion pathway: approximately 50% is taken up by functioning hepatocytes and then eliminated into the bile, while the remaining amount is excreted via the kidneys.",What is the difference between Gadobutrol and Gadoxetate disodium in terms of excretion?,Gadobutrol is excreted entirely via the kidneys. Gadoxetate disodium is excreted through both the liver (50%) and kidneys (50%).,Medication and Contrast agent,Radiopaedia,,None
+6,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the difference between Gadobutrol and Gadoxetate disodium in terms of excretion?","According to the FDA-approved labeling, 
+
+Gadobutrol (Gadavist) is primarily excreted via the kidneys (> 90%).
+ 
+Gadoxetate disodium (Eovist) has a dual-excretion pathway: approximately 50% is excreted hepatobiliary into the feces and about 50% is eliminated renally through the urine.",What is the difference between Gadobutrol and Gadoxetate disodium in terms of excretion?,Gadobutrol is excreted entirely via the kidneys. Gadoxetate disodium is excreted through both the liver (50%) and kidneys (50%).,Medication and Contrast agent,Radiopaedia,,None
+7,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the difference between Gadobutrol and Gadoxetate disodium in terms of excretion?","According to the FDA-approved prescribing information:
+
+* Gadobutrol (Gadavist) is primarily eliminated via the kidneys, with 93% excreted unchanged in urine within 5 hours.
+* Gadoxetate disodium (Eovist) has a dual excretion pathway: approximately 50% is excreted in the bile and feces, while about 50% is excreted in the urine.",What is the difference between Gadobutrol and Gadoxetate disodium in terms of excretion?,Gadobutrol is excreted entirely via the kidneys. Gadoxetate disodium is excreted through both the liver (50%) and kidneys (50%).,Medication and Contrast agent,Radiopaedia,,None
+8,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the difference between Gadobutrol and Gadoxetate disodium in terms of excretion?","According to the FDA-approved labeling:
+
+* Gadobutrol (Gadavist): Excreted primarily by kidneys (kidney elimination).
+* Gadoxetate disodium (Eovist, Primovist): Dual excretion: 50% via liver and bile into feces, and 50% via kidneys into urine.",What is the difference between Gadobutrol and Gadoxetate disodium in terms of excretion?,Gadobutrol is excreted entirely via the kidneys. Gadoxetate disodium is excreted through both the liver (50%) and kidneys (50%).,Medication and Contrast agent,Radiopaedia,,None
+9,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the difference between Gadobutrol and Gadoxetate disodium in terms of excretion?","According to the FDA labels:
+
+* Gadobutrol (Gadavist) is primarily eliminated by renal excretion, with approximately 80% of the dose excreted in the urine within 24 hours.
+* Gadoxetate disodium (Eovist) has a dual mode of elimination: approximately 50% of the dose is excreted in the bile and then into the feces, while around 25-30% is eliminated by renal excretion.",What is the difference between Gadobutrol and Gadoxetate disodium in terms of excretion?,Gadobutrol is excreted entirely via the kidneys. Gadoxetate disodium is excreted through both the liver (50%) and kidneys (50%).,Medication and Contrast agent,Radiopaedia,,None
+10,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the difference between Gadobutrol and Gadoxetate disodium in terms of excretion?","According to the FDA-approved labeling, the main differences are:
+
+* Gadobutrol (Gadavist) is primarily excreted via kidneys (kidney clearance).
+* Gadoxetate disodium (Eovist/Primovist) has dual excretion: 50-60% hepatobiliary excretion and approximately 40-50% renal excretion.",What is the difference between Gadobutrol and Gadoxetate disodium in terms of excretion?,Gadobutrol is excreted entirely via the kidneys. Gadoxetate disodium is excreted through both the liver (50%) and kidneys (50%).,Medication and Contrast agent,Radiopaedia,,None
+0,0.1,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the recommendation for application of gadolinium-based contrast medium in breast-feeding patients?","According to the American College of Radiology (ACR) and the Radiological Society of North America (RSNA), as well as the FDA, it is recommended that breastfeeding women can continue to breastfeed normally after receiving a gadolinium-based contrast agent. No special precautions or cessation of breastfeeding are required.",What is the recommendation for application of gadolinium-based contrast medium in breast-feeding patients?,"Because of the very small percentage of gadolinium-based contrast medium that is excreted into the breast milk and absorbed by the infant�s gut, the available data suggest that it is safe for the mother and infant to continue breast-feeding after receiving such an agent.",Medication and Contrast agent,ACR Manual on Contrast Media,2024,None
+1,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the recommendation for application of gadolinium-based contrast medium in breast-feeding patients?","According to the American College of Radiology (ACR) Manual on Contrast Media, version 2022:
+
+Gadolinium-based contrast media are generally considered safe during breastfeeding. However, it's recommended that a mother may choose to discard pumped milk for 24 hours after receiving a gadolinium-based agent if she is concerned.
+
+(Note: This recommendation applies to the US-American guidelines and is subject to change.)
+
+Reference:
+ACR Manual on Contrast Media (2022)",What is the recommendation for application of gadolinium-based contrast medium in breast-feeding patients?,"Because of the very small percentage of gadolinium-based contrast medium that is excreted into the breast milk and absorbed by the infant�s gut, the available data suggest that it is safe for the mother and infant to continue breast-feeding after receiving such an agent.",Medication and Contrast agent,ACR Manual on Contrast Media,2024,None
+2,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the recommendation for application of gadolinium-based contrast medium in breast-feeding patients?","According to the American College of Radiology (ACR) and the Radiological Society of North America (RSNA), as well as the FDA, ""Gadopentetate dimegumine [or other GBCAs] may be administered to a breastfeeding woman, but caution should be exercised because trace amounts may be excreted into breast milk.""",What is the recommendation for application of gadolinium-based contrast medium in breast-feeding patients?,"Because of the very small percentage of gadolinium-based contrast medium that is excreted into the breast milk and absorbed by the infant�s gut, the available data suggest that it is safe for the mother and infant to continue breast-feeding after receiving such an agent.",Medication and Contrast agent,ACR Manual on Contrast Media,2024,None
+3,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the recommendation for application of gadolinium-based contrast medium in breast-feeding patients?","According to the American College of Radiology (ACR) Manual on Contrast Media, Version 2022, and the US FDA:
+
+""Gadolinium-based contrast agents are excreted into human milk, but with limited oral bioavailability. In most cases, interruption of breastfeeding is not necessary.""",What is the recommendation for application of gadolinium-based contrast medium in breast-feeding patients?,"Because of the very small percentage of gadolinium-based contrast medium that is excreted into the breast milk and absorbed by the infant�s gut, the available data suggest that it is safe for the mother and infant to continue breast-feeding after receiving such an agent.",Medication and Contrast agent,ACR Manual on Contrast Media,2024,None
+4,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the recommendation for application of gadolinium-based contrast medium in breast-feeding patients?","According to the American College of Radiology (ACR) Manual on Contrast Media, Version 2022:
+
+""Gadolinium-based contrast media are excreted into human milk in very small amounts. The maximum dose ingested by a nursing infant is estimated to be less than 1% of the maternal dose. No special precautions or discontinuation of breastfeeding are required after gadolinium-based contrast medium administration.""",What is the recommendation for application of gadolinium-based contrast medium in breast-feeding patients?,"Because of the very small percentage of gadolinium-based contrast medium that is excreted into the breast milk and absorbed by the infant�s gut, the available data suggest that it is safe for the mother and infant to continue breast-feeding after receiving such an agent.",Medication and Contrast agent,ACR Manual on Contrast Media,2024,None
+5,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the recommendation for application of gadolinium-based contrast medium in breast-feeding patients?","According to the American College of Radiology (ACR) and the Radiological Society of North America (RSNA), ""Breast feeding may continue normally after receiving a single dose of a gadolinium-based contrast agent"" [1]. 
+
+[1] ACR Manual on Contrast Media 2022, Version 10.3 - Section 11: Contrast Agents and Breastfeeding",What is the recommendation for application of gadolinium-based contrast medium in breast-feeding patients?,"Because of the very small percentage of gadolinium-based contrast medium that is excreted into the breast milk and absorbed by the infant�s gut, the available data suggest that it is safe for the mother and infant to continue breast-feeding after receiving such an agent.",Medication and Contrast agent,ACR Manual on Contrast Media,2024,None
+6,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the recommendation for application of gadolinium-based contrast medium in breast-feeding patients?","According to the American College of Radiology (ACR) and the Radiological Society of North America (RSNA), the current recommendation is: ""Gadolinium-based contrast agents can be used during breastfeeding. However, it is recommended that mothers wait for 24 hours after receiving a gadolinium-based contrast agent before resuming breastfeeding.""",What is the recommendation for application of gadolinium-based contrast medium in breast-feeding patients?,"Because of the very small percentage of gadolinium-based contrast medium that is excreted into the breast milk and absorbed by the infant�s gut, the available data suggest that it is safe for the mother and infant to continue breast-feeding after receiving such an agent.",Medication and Contrast agent,ACR Manual on Contrast Media,2024,None
+7,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the recommendation for application of gadolinium-based contrast medium in breast-feeding patients?","According to the American College of Radiology (ACR) Manual on Contrast Media (Version 2022), ""Gadolinium-based contrast agents are compatible with breastfeeding and no interruption is recommended.""",What is the recommendation for application of gadolinium-based contrast medium in breast-feeding patients?,"Because of the very small percentage of gadolinium-based contrast medium that is excreted into the breast milk and absorbed by the infant�s gut, the available data suggest that it is safe for the mother and infant to continue breast-feeding after receiving such an agent.",Medication and Contrast agent,ACR Manual on Contrast Media,2024,None
+8,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the recommendation for application of gadolinium-based contrast medium in breast-feeding patients?","According to the American College of Radiology (ACR) Manual on Contrast Media, version 2022:
+
+""Gadolinium-based contrast agents are excreted into breast milk, but the amount is very small... If a breastfeeding mother has received a gadolinium-based agent, no interruption in breastfeeding is needed.""",What is the recommendation for application of gadolinium-based contrast medium in breast-feeding patients?,"Because of the very small percentage of gadolinium-based contrast medium that is excreted into the breast milk and absorbed by the infant�s gut, the available data suggest that it is safe for the mother and infant to continue breast-feeding after receiving such an agent.",Medication and Contrast agent,ACR Manual on Contrast Media,2024,None
+9,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the recommendation for application of gadolinium-based contrast medium in breast-feeding patients?","According to the American College of Radiology (ACR) Manual on Contrast Media, Version 2022:
+
+""Gadolinium-based contrast agents are poorly excreted into human milk and oral bioavailability is very low. The ACR Committee on Drugs and Contrast Media suggests that it is not necessary for mothers to discontinue breastfeeding after receiving a standard dose of gadolinium-based contrast agent.""",What is the recommendation for application of gadolinium-based contrast medium in breast-feeding patients?,"Because of the very small percentage of gadolinium-based contrast medium that is excreted into the breast milk and absorbed by the infant�s gut, the available data suggest that it is safe for the mother and infant to continue breast-feeding after receiving such an agent.",Medication and Contrast agent,ACR Manual on Contrast Media,2024,None
+10,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What is the recommendation for application of gadolinium-based contrast medium in breast-feeding patients?","According to the American College of Radiology (ACR) Manual on Contrast Media, version 2022:
+
+""Gadolinium-based contrast media are poorly excreted into human milk and are not expected to cause harm to a nursing baby. Breastfeeding may continue normally after receiving a gadolinium-based contrast medium.""",What is the recommendation for application of gadolinium-based contrast medium in breast-feeding patients?,"Because of the very small percentage of gadolinium-based contrast medium that is excreted into the breast milk and absorbed by the infant�s gut, the available data suggest that it is safe for the mother and infant to continue breast-feeding after receiving such an agent.",Medication and Contrast agent,ACR Manual on Contrast Media,2024,None
+0,0.1,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+How does a higher pitch affect image quality and radiation dose in helical CT scanning?","According to the American College of Radiology (ACR) and the American Association of Physicists in Medicine (AAPM), a higher pitch in helical CT scanning:
+
+* Increases image noise and artifacts, potentially decreasing image quality.
+* May reduce radiation dose, as less data is required for reconstruction.",How does a higher pitch affect image quality and radiation dose in helical CT scanning?,A higher pitch reduces image quality due to decreased sampling density but lowers radiation dose,Physics,Radiopaedia,,None
+1,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+How does a higher pitch affect image quality and radiation dose in helical CT scanning?","According to the American College of Radiology (ACR) and American Association of Physicists in Medicine (AAPM) guidelines, in helical CT scanning:
+
+* A higher pitch increases image noise and decreases image quality.
+* A higher pitch generally results in a lower radiation dose.",How does a higher pitch affect image quality and radiation dose in helical CT scanning?,A higher pitch reduces image quality due to decreased sampling density but lowers radiation dose,Physics,Radiopaedia,,None
+2,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+How does a higher pitch affect image quality and radiation dose in helical CT scanning?","According to the ACR-ASTRO Practice Parameter for the Performance of Computed Tomography (CT), a higher pitch in helical CT scanning:
+
+* Increases patient throughput, but may degrade image quality due to increased data interpolation.
+* Typically results in a lower radiation dose.",How does a higher pitch affect image quality and radiation dose in helical CT scanning?,A higher pitch reduces image quality due to decreased sampling density but lowers radiation dose,Physics,Radiopaedia,,None
+3,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+How does a higher pitch affect image quality and radiation dose in helical CT scanning?","According to the American College of Radiology (ACR) and the American Association of Physicists in Medicine (AAPM), a higher pitch in helical CT scanning results in:
+
+* A decrease in image noise and radiation dose
+* A slight decrease in spatial resolution due to increased table feed per rotation.
+
+(Pitch is defined as table feed per rotation divided by beam collimation.)",How does a higher pitch affect image quality and radiation dose in helical CT scanning?,A higher pitch reduces image quality due to decreased sampling density but lowers radiation dose,Physics,Radiopaedia,,None
+4,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+How does a higher pitch affect image quality and radiation dose in helical CT scanning?","According to the American College of Radiology (ACR) and the American Association of Physicists in Medicine (AAPM), a higher pitch in helical CT scanning:
+
+* Decreases radiation dose, as less overlap between detector rows results in fewer X-ray photons absorbed by the patient.
+* May degrade image quality due to increased noise and artifacts, particularly if not corrected for by the scanner's reconstruction algorithm.",How does a higher pitch affect image quality and radiation dose in helical CT scanning?,A higher pitch reduces image quality due to decreased sampling density but lowers radiation dose,Physics,Radiopaedia,,None
+5,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+How does a higher pitch affect image quality and radiation dose in helical CT scanning?","According to the ACR (American College of Radiology) and the FDA, a higher pitch in helical CT scanning:
+
+* Increases radiation dose due to increased tube current-time product
+* May degrade image quality by introducing more noise and artifacts, particularly at lower doses.",How does a higher pitch affect image quality and radiation dose in helical CT scanning?,A higher pitch reduces image quality due to decreased sampling density but lowers radiation dose,Physics,Radiopaedia,,None
+6,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+How does a higher pitch affect image quality and radiation dose in helical CT scanning?","According to the American Association of Physicists in Medicine (AAPM) and the American College of Radiology (ACR), a higher pitch in helical CT scanning:
+
+* Increases image noise due to reduced sampling density, which can degrade image quality.
+* Decreases radiation dose due to shorter scan time and reduced number of X-ray pulses.",How does a higher pitch affect image quality and radiation dose in helical CT scanning?,A higher pitch reduces image quality due to decreased sampling density but lowers radiation dose,Physics,Radiopaedia,,None
+7,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+How does a higher pitch affect image quality and radiation dose in helical CT scanning?","According to the ACR-ASTRO Practice Parameter for Performing and Interpreting Computed Tomography (CT), a higher pitch in helical CT scanning:
+
+* May result in increased noise or decreased image resolution.
+* Typically reduces the absorbed radiation dose.",How does a higher pitch affect image quality and radiation dose in helical CT scanning?,A higher pitch reduces image quality due to decreased sampling density but lowers radiation dose,Physics,Radiopaedia,,None
+8,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+How does a higher pitch affect image quality and radiation dose in helical CT scanning?","According to the American Association of Physicists in Medicine (AAPM) and the National Council on Radiation Protection and Measurements (NCRP), a higher pitch in helical CT scanning results in:
+
+* Decreased radiation dose due to reduced overlap of X-ray beams.
+* Potential degradation of image quality, particularly in low-contrast objects, due to increased helical interpolation artifacts.
+
+Source: AAPM Report No. 96 (2014) and NCRP Report No. 160 (2009).",How does a higher pitch affect image quality and radiation dose in helical CT scanning?,A higher pitch reduces image quality due to decreased sampling density but lowers radiation dose,Physics,Radiopaedia,,None
+9,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+How does a higher pitch affect image quality and radiation dose in helical CT scanning?","According to the ACR (American College of Radiology) and ACR-ACRIN practice guidelines, a higher pitch setting in helical CT scanning results in:
+
+* Increased volume coverage rate
+* Potential increase in motion artifacts
+* No significant change in image quality for most patients
+* Decreased radiation dose per scan",How does a higher pitch affect image quality and radiation dose in helical CT scanning?,A higher pitch reduces image quality due to decreased sampling density but lowers radiation dose,Physics,Radiopaedia,,None
+10,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+How does a higher pitch affect image quality and radiation dose in helical CT scanning?","According to the American Association of Physicists in Medicine (AAPM) and the American College of Radiology (ACR), a higher pitch in helical CT scanning:
+
+* Increases image noise and artifacts, potentially degrading image quality.
+* Reduces radiation dose, as the same amount of data is acquired over a longer distance.",How does a higher pitch affect image quality and radiation dose in helical CT scanning?,A higher pitch reduces image quality due to decreased sampling density but lowers radiation dose,Physics,Radiopaedia,,None
+0,0.1,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which two reference radiodensities are used to create the Hounsfield-scale?","According to the American College of Radiology (ACR) and the National Electrical Manufacturers Association (NEMA), the two reference radiodensities used to create the Hounsfield scale are:
+
+1. Air (-1000 HU)
+2. Water (0 HU)",Which two reference radiodensities are used to create the Hounsfield-scale?,The Hounsfield scale uses air (-1000 HU) and water (0 HU) as reference radiodensities.,Physics,Radiopaedia,,None
+1,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which two reference radiodensities are used to create the Hounsfield-scale?","According to the American College of Radiology (ACR), the two reference radiodensities used to create the Hounsfield scale are:
+
+1. Air (-1000 HU)
+2. Water (0 HU)",Which two reference radiodensities are used to create the Hounsfield-scale?,The Hounsfield scale uses air (-1000 HU) and water (0 HU) as reference radiodensities.,Physics,Radiopaedia,,None
+2,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which two reference radiodensities are used to create the Hounsfield-scale?","According to the American Association of Physicists in Medicine (AAPM), the Hounsfield scale uses the following two reference radiodensities:
+
+1. Air: -1000 HU
+2. Water: 0 HU",Which two reference radiodensities are used to create the Hounsfield-scale?,The Hounsfield scale uses air (-1000 HU) and water (0 HU) as reference radiodensities.,Physics,Radiopaedia,,None
+3,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which two reference radiodensities are used to create the Hounsfield-scale?","According to the current US-American guidelines (e.g., American College of Radiology), the Hounsfield scale is defined by setting:
+
+- Air: -1000 HU
+- Water: 0 HU",Which two reference radiodensities are used to create the Hounsfield-scale?,The Hounsfield scale uses air (-1000 HU) and water (0 HU) as reference radiodensities.,Physics,Radiopaedia,,None
+4,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which two reference radiodensities are used to create the Hounsfield-scale?","According to the current American Association of Physicists in Medicine (AAPM) guidelines, the Hounsfield scale references air at -1000 Hounsfield Units (HU) and water at 0 HU.",Which two reference radiodensities are used to create the Hounsfield-scale?,The Hounsfield scale uses air (-1000 HU) and water (0 HU) as reference radiodensities.,Physics,Radiopaedia,,None
+5,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which two reference radiodensities are used to create the Hounsfield-scale?",Air (−1000) and water (+0).,Which two reference radiodensities are used to create the Hounsfield-scale?,The Hounsfield scale uses air (-1000 HU) and water (0 HU) as reference radiodensities.,Physics,Radiopaedia,,None
+6,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which two reference radiodensities are used to create the Hounsfield-scale?","According to the American College of Radiology (ACR), the Hounsfield scale is calibrated using air at -1000 HU and water at 0 HU.",Which two reference radiodensities are used to create the Hounsfield-scale?,The Hounsfield scale uses air (-1000 HU) and water (0 HU) as reference radiodensities.,Physics,Radiopaedia,,None
+7,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which two reference radiodensities are used to create the Hounsfield-scale?",Water (0 HU) and air (-1000 HU).,Which two reference radiodensities are used to create the Hounsfield-scale?,The Hounsfield scale uses air (-1000 HU) and water (0 HU) as reference radiodensities.,Physics,Radiopaedia,,None
+8,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which two reference radiodensities are used to create the Hounsfield-scale?",Water (0 HU) and air (-1000 HU).,Which two reference radiodensities are used to create the Hounsfield-scale?,The Hounsfield scale uses air (-1000 HU) and water (0 HU) as reference radiodensities.,Physics,Radiopaedia,,None
+9,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which two reference radiodensities are used to create the Hounsfield-scale?","According to the American Association of Physicists in Medicine (AAPM) and the American College of Radiology (ACR), the Hounsfield scale is defined relative to the radiodensity of water (0 HU) and air (-1000 HU).",Which two reference radiodensities are used to create the Hounsfield-scale?,The Hounsfield scale uses air (-1000 HU) and water (0 HU) as reference radiodensities.,Physics,Radiopaedia,,None
+10,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which two reference radiodensities are used to create the Hounsfield-scale?","According to the American College of Radiology (ACR), water and air are the two reference radiodensities used to create the Hounsfield scale. Water is set at 0 HU and air is set at -1000 HU.",Which two reference radiodensities are used to create the Hounsfield-scale?,The Hounsfield scale uses air (-1000 HU) and water (0 HU) as reference radiodensities.,Physics,Radiopaedia,,None
+0,0.1,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What are gradient coils used for in MRI in terms of basic image acquisition?","According to the American College of Radiology (ACR) and the National Electrical Manufacturers Association (NEMA), gradient coils in MRI are used to:
+
+* Spatially encode magnetic resonance signals
+* Selectively excite or suppress signal from specific regions of interest
+* Perform spatial localization and slice selection during image acquisition.",What are gradient coils used for in MRI in terms of basic image acquisition?,"Gradient coils in an MRI scanner are used to spatially encode the MRI signal (Slice selection, phase and frequency encoding)",Physics,Radiopaedia,,None
+1,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What are gradient coils used for in MRI in terms of basic image acquisition?","According to current ACR (American College of Radiology) and RSNA (Radiological Society of North America) guidelines, gradient coils in MRI are used to:
+
+* Spatially encode magnetic resonance signals
+* Select slice planes and directions for imaging
+* Refocus spins after excitation for signal readout",What are gradient coils used for in MRI in terms of basic image acquisition?,"Gradient coils in an MRI scanner are used to spatially encode the MRI signal (Slice selection, phase and frequency encoding)",Physics,Radiopaedia,,None
+2,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What are gradient coils used for in MRI in terms of basic image acquisition?","According to current US-American guidelines, gradient coils in MRI are used for spatial encoding, allowing for the selection of specific slices, phase encoding, and frequency encoding of the magnetic resonance signal. (Source: ACR Guidance Document on Safe MR Practices)",What are gradient coils used for in MRI in terms of basic image acquisition?,"Gradient coils in an MRI scanner are used to spatially encode the MRI signal (Slice selection, phase and frequency encoding)",Physics,Radiopaedia,,None
+3,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What are gradient coils used for in MRI in terms of basic image acquisition?","According to current US-American guidelines, specifically the American College of Radiology (ACR) and the National Electrical Manufacturers Association (NEMA), gradient coils in MRI are used for spatial encoding and slice selection during basic image acquisition.",What are gradient coils used for in MRI in terms of basic image acquisition?,"Gradient coils in an MRI scanner are used to spatially encode the MRI signal (Slice selection, phase and frequency encoding)",Physics,Radiopaedia,,None
+4,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What are gradient coils used for in MRI in terms of basic image acquisition?","According to the ACR Guidance Document on Safe MR Practices (2019), gradient coils are used to spatially encode magnetic resonance signals and select specific planes or volumes for imaging. 
+
+In terms of basic image acquisition, they are used for three main purposes:
+
+1. Slice selection
+2. Frequency encoding (readout)
+3. Phase encoding",What are gradient coils used for in MRI in terms of basic image acquisition?,"Gradient coils in an MRI scanner are used to spatially encode the MRI signal (Slice selection, phase and frequency encoding)",Physics,Radiopaedia,,None
+5,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What are gradient coils used for in MRI in terms of basic image acquisition?","According to the American College of Radiology (ACR) and the National Electrical Manufacturers Association (NEMA), in MRI, gradient coils are used for spatial encoding, allowing for:
+
+1. Slice selection
+2. Frequency encoding (readout)
+3. Phase encoding
+
+(Reference: ACR-NEMA Standards Publication PS 3.1-2019)",What are gradient coils used for in MRI in terms of basic image acquisition?,"Gradient coils in an MRI scanner are used to spatially encode the MRI signal (Slice selection, phase and frequency encoding)",Physics,Radiopaedia,,None
+6,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What are gradient coils used for in MRI in terms of basic image acquisition?","According to current US-American guidelines, gradient coils in MRI are used for spatial encoding, allowing for the spatial localization of signal within an image. They provide a varying magnetic field strength along the x, y, and z axes, enabling slice selection, frequency encoding (readout), and phase encoding.",What are gradient coils used for in MRI in terms of basic image acquisition?,"Gradient coils in an MRI scanner are used to spatially encode the MRI signal (Slice selection, phase and frequency encoding)",Physics,Radiopaedia,,None
+7,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What are gradient coils used for in MRI in terms of basic image acquisition?","According to current US-American guidelines, gradient coils in MRI are used for spatial encoding, allowing for spatial localization of signal intensity within the body, thereby facilitating basic image acquisition. (Source: ACR Guidance Document on Safe MR Practices)",What are gradient coils used for in MRI in terms of basic image acquisition?,"Gradient coils in an MRI scanner are used to spatially encode the MRI signal (Slice selection, phase and frequency encoding)",Physics,Radiopaedia,,None
+8,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What are gradient coils used for in MRI in terms of basic image acquisition?","According to current US-American guidelines, in basic MRI image acquisition, gradient coils are used for spatial encoding, allowing for:
+
+1. Slice selection
+2. Phase encoding
+3. Frequency encoding (also known as readout)",What are gradient coils used for in MRI in terms of basic image acquisition?,"Gradient coils in an MRI scanner are used to spatially encode the MRI signal (Slice selection, phase and frequency encoding)",Physics,Radiopaedia,,None
+9,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What are gradient coils used for in MRI in terms of basic image acquisition?","According to current US-American guidelines (ACR Manual on MR Safety, 2020), gradient coils in MRI are used for spatial encoding, allowing for slice selection, frequency encoding, and phase encoding during basic image acquisition.",What are gradient coils used for in MRI in terms of basic image acquisition?,"Gradient coils in an MRI scanner are used to spatially encode the MRI signal (Slice selection, phase and frequency encoding)",Physics,Radiopaedia,,None
+10,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+What are gradient coils used for in MRI in terms of basic image acquisition?","Gradient coils in MRI are used to spatially encode magnetic resonance signals, allowing for localization and formation of images by varying the magnetic field strength along different axes (x, y, z). They switch on and off rapidly during imaging sequences.",What are gradient coils used for in MRI in terms of basic image acquisition?,"Gradient coils in an MRI scanner are used to spatially encode the MRI signal (Slice selection, phase and frequency encoding)",Physics,Radiopaedia,,None
+0,0.1,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+How does higher slice thickness influence spatial resolution and signal-to-noise ratio in MRI?","According to the American College of Radiology (ACR) and the National Electrical Manufacturers Association (NEMA), increasing slice thickness in MRI:
+
+* Decreases spatial resolution
+* Increases signal-to-noise ratio (SNR)",How does higher slice thickness influence spatial resolution and signal-to-noise ratio in MRI?,"In MRI, increasing slice thickness improves the signal-to-noise ratio (SNR) by capturing more signal, but it reduces spatial resolution by averaging information over a larger volume.",Physics,mrimaster,,None
+1,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+How does higher slice thickness influence spatial resolution and signal-to-noise ratio in MRI?","According to the American College of Radiology (ACR) Guidelines, increasing slice thickness in MRI:
+
+* Decreases spatial resolution
+* Increases signal-to-noise ratio (SNR)",How does higher slice thickness influence spatial resolution and signal-to-noise ratio in MRI?,"In MRI, increasing slice thickness improves the signal-to-noise ratio (SNR) by capturing more signal, but it reduces spatial resolution by averaging information over a larger volume.",Physics,mrimaster,,None
+2,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+How does higher slice thickness influence spatial resolution and signal-to-noise ratio in MRI?","According to the American College of Radiology (ACR) and the American Association of Physicists in Medicine (AAPM), a higher slice thickness in MRI:
+
+* Decreases spatial resolution, as thicker slices average more anatomy, reducing the ability to detect small structures.
+* Increases signal-to-noise ratio (SNR), as more tissue is excited and contributes to the signal.",How does higher slice thickness influence spatial resolution and signal-to-noise ratio in MRI?,"In MRI, increasing slice thickness improves the signal-to-noise ratio (SNR) by capturing more signal, but it reduces spatial resolution by averaging information over a larger volume.",Physics,mrimaster,,None
+3,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+How does higher slice thickness influence spatial resolution and signal-to-noise ratio in MRI?","According to the American College of Radiology (ACR) and the RSNA, thicker slices in MRI:
+
+* Decrease spatial resolution
+* Increase signal-to-noise ratio (SNR) 
+
+(Reference: ACR-RSNA-SPR Practice Parameter for the Performance of Magnetic Resonance Imaging (MRI), 2018)",How does higher slice thickness influence spatial resolution and signal-to-noise ratio in MRI?,"In MRI, increasing slice thickness improves the signal-to-noise ratio (SNR) by capturing more signal, but it reduces spatial resolution by averaging information over a larger volume.",Physics,mrimaster,,None
+4,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+How does higher slice thickness influence spatial resolution and signal-to-noise ratio in MRI?","According to the American College of Radiology (ACR) and the National Electrical Manufacturers Association (NEMA) guidelines, increasing slice thickness in MRI:
+
+* Decreases spatial resolution
+* Increases signal-to-noise ratio (SNR)",How does higher slice thickness influence spatial resolution and signal-to-noise ratio in MRI?,"In MRI, increasing slice thickness improves the signal-to-noise ratio (SNR) by capturing more signal, but it reduces spatial resolution by averaging information over a larger volume.",Physics,mrimaster,,None
+5,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+How does higher slice thickness influence spatial resolution and signal-to-noise ratio in MRI?","According to the American College of Radiology (ACR) and the American Association of Physicists in Medicine (AAPM), a higher slice thickness in MRI:
+
+* Decreases spatial resolution
+* Increases signal-to-noise ratio (SNR)",How does higher slice thickness influence spatial resolution and signal-to-noise ratio in MRI?,"In MRI, increasing slice thickness improves the signal-to-noise ratio (SNR) by capturing more signal, but it reduces spatial resolution by averaging information over a larger volume.",Physics,mrimaster,,None
+6,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+How does higher slice thickness influence spatial resolution and signal-to-noise ratio in MRI?","According to the American College of Radiology (ACR) and the National Electrical Manufacturers Association (NEMA), increasing slice thickness in MRI:
+
+* Decreases spatial resolution
+* Increases signal-to-noise ratio (SNR) 
+
+(References: ACR Manual on MR Safety, NEMA Standards Publication No. MS 1-2019)",How does higher slice thickness influence spatial resolution and signal-to-noise ratio in MRI?,"In MRI, increasing slice thickness improves the signal-to-noise ratio (SNR) by capturing more signal, but it reduces spatial resolution by averaging information over a larger volume.",Physics,mrimaster,,None
+7,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+How does higher slice thickness influence spatial resolution and signal-to-noise ratio in MRI?","According to the American College of Radiology (ACR) guidelines, increasing slice thickness in MRI:
+
+* Decreases spatial resolution
+* Increases signal-to-noise ratio (SNR).",How does higher slice thickness influence spatial resolution and signal-to-noise ratio in MRI?,"In MRI, increasing slice thickness improves the signal-to-noise ratio (SNR) by capturing more signal, but it reduces spatial resolution by averaging information over a larger volume.",Physics,mrimaster,,None
+8,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+How does higher slice thickness influence spatial resolution and signal-to-noise ratio in MRI?","According to the American College of Radiology (ACR) and the National Electrical Manufacturers Association (NEMA), increasing slice thickness in MRI:
+
+* Decreases spatial resolution
+* Increases signal-to-noise ratio (SNR)",How does higher slice thickness influence spatial resolution and signal-to-noise ratio in MRI?,"In MRI, increasing slice thickness improves the signal-to-noise ratio (SNR) by capturing more signal, but it reduces spatial resolution by averaging information over a larger volume.",Physics,mrimaster,,None
+9,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+How does higher slice thickness influence spatial resolution and signal-to-noise ratio in MRI?","According to the American College of Radiology (ACR) Guidelines, increasing slice thickness in MRI:
+
+* Decreases spatial resolution
+* Increases signal-to-noise ratio (SNR)",How does higher slice thickness influence spatial resolution and signal-to-noise ratio in MRI?,"In MRI, increasing slice thickness improves the signal-to-noise ratio (SNR) by capturing more signal, but it reduces spatial resolution by averaging information over a larger volume.",Physics,mrimaster,,None
+10,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+How does higher slice thickness influence spatial resolution and signal-to-noise ratio in MRI?","According to the American College of Radiology (ACR) and the National Electrical Manufacturers Association (NEMA), increasing slice thickness in MRI:
+
+* Decreases spatial resolution
+* Increases signal-to-noise ratio (SNR)",How does higher slice thickness influence spatial resolution and signal-to-noise ratio in MRI?,"In MRI, increasing slice thickness improves the signal-to-noise ratio (SNR) by capturing more signal, but it reduces spatial resolution by averaging information over a larger volume.",Physics,mrimaster,,None
+0,0.1,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which TE is used to generate opposed-phase images in 1.5T systems?","According to the American College of Radiology (ACR) guidelines, a TE of around 2.3-2.5 ms is typically used to generate opposed-phase images at 1.5T.",Which TE is used to generate opposed-phase images in 1.5T systems?,"In 1.5T MRI systems, opposed-phase images are typically generated at a TE (echo time) of approximately 2.2 milliseconds.",Physics,Chemical Shift Imaging,2016,None
+1,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which TE is used to generate opposed-phase images in 1.5T systems?","According to the American College of Radiology (ACR) Manual on MR Safe Practices, 2013 Edition:
+
+Opposed-phase imaging at 1.5T typically uses a TE of around 2.1-2.3 ms or an integer multiple thereof.
+
+However, please note that exact TE might slightly vary with different system vendors and software releases.",Which TE is used to generate opposed-phase images in 1.5T systems?,"In 1.5T MRI systems, opposed-phase images are typically generated at a TE (echo time) of approximately 2.2 milliseconds.",Physics,Chemical Shift Imaging,2016,None
+2,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which TE is used to generate opposed-phase images in 1.5T systems?","According to the American College of Radiology (ACR) guidelines, a TE of around 2-3 ms or less is typically used to generate opposed-phase images at 1.5 T.",Which TE is used to generate opposed-phase images in 1.5T systems?,"In 1.5T MRI systems, opposed-phase images are typically generated at a TE (echo time) of approximately 2.2 milliseconds.",Physics,Chemical Shift Imaging,2016,None
+3,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which TE is used to generate opposed-phase images in 1.5T systems?",2.1-3.0 ms.,Which TE is used to generate opposed-phase images in 1.5T systems?,"In 1.5T MRI systems, opposed-phase images are typically generated at a TE (echo time) of approximately 2.2 milliseconds.",Physics,Chemical Shift Imaging,2016,None
+4,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which TE is used to generate opposed-phase images in 1.5T systems?","According to the current American College of Radiology (ACR) guidelines, a TE of approximately 2-3 ms is typically used to generate opposed-phase images at 1.5 T.",Which TE is used to generate opposed-phase images in 1.5T systems?,"In 1.5T MRI systems, opposed-phase images are typically generated at a TE (echo time) of approximately 2.2 milliseconds.",Physics,Chemical Shift Imaging,2016,None
+5,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which TE is used to generate opposed-phase images in 1.5T systems?",2.4-3.0 ms (Source: ACR Guidance Document on Safe MR Practices),Which TE is used to generate opposed-phase images in 1.5T systems?,"In 1.5T MRI systems, opposed-phase images are typically generated at a TE (echo time) of approximately 2.2 milliseconds.",Physics,Chemical Shift Imaging,2016,None
+6,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which TE is used to generate opposed-phase images in 1.5T systems?","2.0 ms or less at 1.5 T. (Source: ACR Manual on MR Safety, 2020)",Which TE is used to generate opposed-phase images in 1.5T systems?,"In 1.5T MRI systems, opposed-phase images are typically generated at a TE (echo time) of approximately 2.2 milliseconds.",Physics,Chemical Shift Imaging,2016,None
+7,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which TE is used to generate opposed-phase images in 1.5T systems?","2.3 ms or 4.6 ms TE is typically used to generate opposed-phase images in 1.5 T systems, according to current guidelines (ACR-ASNR-SPR Practice Parameter for the Performance of Magnetic Resonance Imaging (MRI)).",Which TE is used to generate opposed-phase images in 1.5T systems?,"In 1.5T MRI systems, opposed-phase images are typically generated at a TE (echo time) of approximately 2.2 milliseconds.",Physics,Chemical Shift Imaging,2016,None
+8,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which TE is used to generate opposed-phase images in 1.5T systems?","For opposed-phase imaging at 1.5 Tesla, a TE of 2.3-2.5 ms or 6.9-7.1 ms (to avoid water-fat signal cancellation) is typically used, with the most commonly chosen value being approximately 6.9 ms to achieve good fat-water contrast and minimize artifacts.",Which TE is used to generate opposed-phase images in 1.5T systems?,"In 1.5T MRI systems, opposed-phase images are typically generated at a TE (echo time) of approximately 2.2 milliseconds.",Physics,Chemical Shift Imaging,2016,None
+9,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which TE is used to generate opposed-phase images in 1.5T systems?","According to the current American College of Radiology (ACR) guidelines, a TE of approximately 1.2-2.4 ms is recommended to generate opposed-phase images in 1.5T systems.",Which TE is used to generate opposed-phase images in 1.5T systems?,"In 1.5T MRI systems, opposed-phase images are typically generated at a TE (echo time) of approximately 2.2 milliseconds.",Physics,Chemical Shift Imaging,2016,None
+10,1.0,"Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.
+Which TE is used to generate opposed-phase images in 1.5T systems?","In 1.5 T systems, a TE of around 2.3-4.6 ms is typically used to generate opposed-phase images.",Which TE is used to generate opposed-phase images in 1.5T systems?,"In 1.5T MRI systems, opposed-phase images are typically generated at a TE (echo time) of approximately 2.2 milliseconds.",Physics,Chemical Shift Imaging,2016,None
