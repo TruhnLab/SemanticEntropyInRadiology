@@ -15,13 +15,13 @@ LLM_ANSWERS = [
 
 PROMPT_FUNC_TO_CACHE_FILE = {
     promptLLM.promptGPT4o:CONFIG.ENTAILMENT_CACHE_FILE_GPT_4O,
-    #"TODO_ADD_PROMPT_FUNC_o1":CONFIG.ENTAILMENT_CACHE_FILE_O1,
+    promptLLM.promptGPT_OSS_120B:CONFIG.ENTAILMENT_CACHE_FILE_GPT_OSS_120B,
 }
 
 class EntailmentCheck():
     # This class handles entailment checks for user answers, caching results to avoid repeated prompts.
 
-    def __init__(self,promptFunc=ENTAILMENT_PROMPT_FUNC,cacheFile=None,noNewPrompts = False):
+    def __init__(self,promptFunc,cacheFile=None,noNewPrompts = False):
         # Initializes the entailment check with a given prompt function, cache file, and option to disable new prompts
         if cacheFile is None:
             cacheFile = PROMPT_FUNC_TO_CACHE_FILE[promptFunc]
@@ -58,7 +58,7 @@ class EntailmentCheck():
     def newPromptRequest(self,prompt):
         # Issues a fresh API call to obtain entailment results when noNewPrompts is False
         assert not self.noNewPrompts
-        return ENTAILMENT_PROMPT_FUNC(prompt,CONFIG.ENTAILMENT_TEMPERATURE)[0]
+        return self.promptFunc(prompt,CONFIG.ENTAILMENT_TEMPERATURE)[0]
     
     def execPrompt(self,prompt):
         # Retrieves the entailment result from cache when possible, otherwise calls newPromptRequest

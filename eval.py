@@ -50,25 +50,46 @@ LLAMA_8B_LIST = [
     "EVAL_Research_LLAMA3.1_8B.csv",
 ]
 
+LONG_LIST = [
+    "LONG_EVAL_GPT4o.csv",
+    "LONG_EVAL_LLAMA3.1_8B.csv",
+    "LONG_EVAL_LLAMA3.1_70B.csv",
+    "LONG_EVAL_o1_unknownTemperature.csv"
+]
+
+SHORT_LIST = [
+    "SHORT_EVAL_GPT4o.csv",
+    "SHORT_EVAL_LLAMA3.1_8B.csv",
+    "SHORT_EVAL_LLAMA3.1_70B.csv",
+    "SHORT_EVAL_o1_unknownTemperature.csv"
+]
+
+LONG_SHORT_LIST = LONG_LIST + SHORT_LIST
+
 TOPIC_LIST = [FILE_LIST[0:3]] + [FILE_LIST[3:6]] + [FILE_LIST[6:9]] + [FILE_LIST[9:12]]
 
 # The function addFolder appends a path prefix to each file
 addFolder = lambda lst: [ANSWER_CLUSTER_FOLDER + x for x in lst]
 
 # Evaluate O1 model outputs using GPT4o for entailment checks
-o1ClusterAnswerList = execEvalOfQuestions(addFolder(O1_LIST),promptFunc=promptLLM.promptGPT4o)# change new prompt parameter when done
+o1ClusterAnswerList = execEvalOfQuestions(addFolder(O1_LIST),promptFunc=promptLLM.promptGPT4o,noNewPrompts=True)# change new prompt parameter when done
 
 for file in O1_LIST:
-    execEvalOfQuestions(addFolder([file]),promptFunc=promptLLM.promptGPT4o)
+    execEvalOfQuestions(addFolder([file]),promptFunc=promptLLM.promptGPT4o,noNewPrompts=True)
 
 # Evaluate other model outputs similarly
-o1ClusterAnswerList = execEvalOfQuestions(addFolder(O1_LIST),promptFunc=promptLLM.promptGPT4o)# change new prompt parameter when done
+o1ClusterAnswerList = execEvalOfQuestions(addFolder(O1_LIST),promptFunc=promptLLM.promptGPT4o,noNewPrompts=True)# change new prompt parameter when done
 
-gpt4oClusterAnswerList = execEvalOfQuestions(addFolder(GPT4_LIST),promptFunc=promptLLM.promptGPT4o)
+gpt4oClusterAnswerList = execEvalOfQuestions(addFolder(GPT4_LIST),promptFunc=promptLLM.promptGPT4o,noNewPrompts=True)
 
-llama70bClusterAnswerList = execEvalOfQuestions(addFolder(LLAMA_70B_LIST),promptFunc=promptLLM.promptGPT4o)
+llama70bClusterAnswerList = execEvalOfQuestions(addFolder(LLAMA_70B_LIST),promptFunc=promptLLM.promptGPT4o,noNewPrompts=True)
 
-llama8bClusterAnswerList = execEvalOfQuestions(addFolder(LLAMA_8B_LIST),promptFunc=promptLLM.promptGPT4o)
+llama8bClusterAnswerList = execEvalOfQuestions(addFolder(LLAMA_8B_LIST),promptFunc=promptLLM.promptGPT4o,noNewPrompts=True)
+
+for el in LONG_SHORT_LIST:
+    print(f"EVALUATION OF {el}",end="")
+    execEvalOfQuestions(addFolder([el]),promptFunc=promptLLM.promptGPT4o,noNewPrompts=False)
+
 
 print("bootstrapping evaluation")
 print("Accuracy gain for using semantic entropy:")

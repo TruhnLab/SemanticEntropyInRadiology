@@ -1,6 +1,7 @@
 PROMPT_LOG_FILE_PATH = "cache/promptLogFile.csv"
 
 ENTAILMENT_CACHE_FILE_GPT_4O = "cache/entailmentCacheFile_GPT4o.csv"
+ENTAILMENT_CACHE_FILE_GPT_OSS_120B = "cache/entailmentCacheFile_GPT-oss-120b.csv"
 
 
 ANSWER_CLUSTER_FOLDER = "cache/"
@@ -20,9 +21,11 @@ KEY_FILE = "/home/patrick/local/chatGPTCred.csv"
 NUM_RETRYS = 5
 
 MAX_TOKEN = 150
+MAX_TOKEN_LOCAL = 1500
 
 #replace with your API-KEY / Azure endpoint:
 OPENAI_KEY = "your-key-here"
 AZURE_ENDPOINT = "your-endpoint-here"
-
+LOCAL_KEY = "your-key-here"
+LOCAL_ENDPOINT = "your-endpoint-here"
 

@@ -42,100 +42,100 @@ EVAL_LIST = [
     #Questions_Semantic_Entropy_Image_Acquisition.csv
     (
         "questions/Questions_Semantic_Entropy_Image_Acquisition.csv",
-        "rad_files/EVAL_Image_Acquisition_LLAMA3.1_8B.csv",
+        "cache/EVAL_Image_Acquisition_LLAMA3.1_8B.csv",
         promptLLM.promptLlama3_1_8B,
         CONFIG.PROMPT_PREFIX_GUIDELINES,
     ),
     (
         "questions/Questions_Semantic_Entropy_Image_Acquisition.csv",
-        "rad_files/EVAL_Image_Acquisition_LLAMA3.1_70B.csv",
+        "cache/EVAL_Image_Acquisition_LLAMA3.1_70B.csv",
         promptLLM.promptLlama3_1_70B,
         CONFIG.PROMPT_PREFIX_GUIDELINES,
     ),
     (
         "questions/Questions_Semantic_Entropy_Image_Acquisition.csv",
-        "rad_files/EVAL_Image_Acquisition_GPT4o.csv",
+        "cache/EVAL_Image_Acquisition_GPT4o.csv",
         promptLLM.promptGPT4o,
         CONFIG.PROMPT_PREFIX_GUIDELINES,
     ),
     (
         "questions/Questions_Semantic_Entropy_Image_Acquisition.csv",
-        "rad_files/EVAL_Image_Acquisition_o1_unknownTemperature.csv",
+        "cache/EVAL_Image_Acquisition_o1_unknownTemperature.csv",
         promptLLM.prompt_o1_unknownTemperature,
         CONFIG.PROMPT_PREFIX_GUIDELINES,
     ),
     #Questions_Semantic_Entropy_Guidelines_and_Indications.csv
         (
         "questions/Questions_Semantic_Entropy_Guidelines_and_Indications.csv",
-        "rad_files/EVAL_Guidelines_and_Indications_LLAMA3.1_8B.csv",
+        "cache/EVAL_Guidelines_and_Indications_LLAMA3.1_8B.csv",
         promptLLM.promptLlama3_1_8B,
         CONFIG.PROMPT_PREFIX_GUIDELINES,
     ),
     (
         "questions/Questions_Semantic_Entropy_Guidelines_and_Indications.csv",
-        "rad_files/EVAL_Guidelines_and_Indications_LLAMA3.1_70B.csv",
+        "cache/EVAL_Guidelines_and_Indications_LLAMA3.1_70B.csv",
         promptLLM.promptLlama3_1_70B,
         CONFIG.PROMPT_PREFIX_GUIDELINES,
     ),
     (
         "questions/Questions_Semantic_Entropy_Guidelines_and_Indications.csv",
-        "rad_files/EVAL_Guidelines_and_Indications_GPT4o.csv",
+        "cache/EVAL_Guidelines_and_Indications_GPT4o.csv",
         promptLLM.promptGPT4o,
         CONFIG.PROMPT_PREFIX_GUIDELINES,
     ),
     (
         "questions/Questions_Semantic_Entropy_Guidelines_and_Indications.csv",
-        "rad_files/EVAL_Guidelines_and_Indications_o1_unknownTemperature.csv",
+        "cache/EVAL_Guidelines_and_Indications_o1_unknownTemperature.csv",
         promptLLM.prompt_o1_unknownTemperature,
         CONFIG.PROMPT_PREFIX_GUIDELINES,
     ),
     #Questions_Semantic_Entropy_Imaging_Education.csv
     (
         "questions/Questions_Semantic_Entropy_Imaging_Education.csv",
-        "rad_files/EVAL_Imaging_Education_LLAMA3.1_8B.csv",
+        "cache/EVAL_Imaging_Education_LLAMA3.1_8B.csv",
         promptLLM.promptLlama3_1_8B,
         CONFIG.PROMPT_PREFIX_EDU_RESEARCH,
     ),
     (
         "questions/Questions_Semantic_Entropy_Imaging_Education.csv",
-        "rad_files/EVAL_Imaging_Education_LLAMA3.1_70B.csv",
+        "cache/EVAL_Imaging_Education_LLAMA3.1_70B.csv",
         promptLLM.promptLlama3_1_70B,
         CONFIG.PROMPT_PREFIX_EDU_RESEARCH,
     ),
     (
         "questions/Questions_Semantic_Entropy_Imaging_Education.csv",
-        "rad_files/EVAL_Imaging_Education_GPT4o.csv",
+        "cache/EVAL_Imaging_Education_GPT4o.csv",
         promptLLM.promptGPT4o,
         CONFIG.PROMPT_PREFIX_EDU_RESEARCH,
     ),
     (
         "questions/Questions_Semantic_Entropy_Imaging_Education.csv",
-        "rad_files/EVAL_Imaging_Education_o1_unknownTemperature.csv",
+        "cache/EVAL_Imaging_Education_o1_unknownTemperature.csv",
         promptLLM.prompt_o1_unknownTemperature,
         CONFIG.PROMPT_PREFIX_EDU_RESEARCH,
     ),
     #Questions_Semantic_Entropy_Research.csv
     (
         "questions/Questions_Semantic_Entropy_Research.csv",
-        "rad_files/EVAL_Research_LLAMA3.1_8B.csv",
+        "cache/EVAL_Research_LLAMA3.1_8B.csv",
         promptLLM.promptLlama3_1_8B,
         CONFIG.PROMPT_PREFIX_EDU_RESEARCH,
     ),
     (
         "questions/Questions_Semantic_Entropy_Research.csv",
-        "rad_files/EVAL_Research_GPT4o.csv",
+        "cache/EVAL_Research_GPT4o.csv",
         promptLLM.promptGPT4o,
         CONFIG.PROMPT_PREFIX_EDU_RESEARCH,
     ),
     (
         "questions/Questions_Semantic_Entropy_Research.csv",
-        "rad_files/EVAL_Research_LLAMA3.1_70B.csv",
+        "cache/EVAL_Research_LLAMA3.1_70B.csv",
         promptLLM.promptLlama3_1_70B,
         CONFIG.PROMPT_PREFIX_EDU_RESEARCH,
     ),
     (
         "questions/Questions_Semantic_Entropy_Research.csv",
-        "rad_files/EVAL_Research_prompt_o1_unknownTemperature.csv",
+        "cache/EVAL_Research_prompt_o1_unknownTemperature.csv",
         promptLLM.prompt_o1_unknownTemperature,
         CONFIG.PROMPT_PREFIX_EDU_RESEARCH,
     ),
@@ -144,4 +144,5 @@ EVAL_LIST = [
 
 for answerSet in EVAL_LIST:
     # Executes answer generation for each configuration
+    print("GENERATE ANSWERS:",*answerSet)
     execAnswerGeneration(*answerSet)

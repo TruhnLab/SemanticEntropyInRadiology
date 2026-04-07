@@ -14,15 +14,11 @@ The CSV files containing all the questions can be found in the [`questions`](que
 ## Requirements
 Note: We used Ubuntu 22.04
 1. Ensure `conda` is installed on your system.
-2. Navigate to the `code` directory:
-```
-$ cd code
-```
-3. Set up the conda environment using the provided [`environment.yml`](environment.yml) file:
+2. Set up the conda environment using the provided [`environment.yml`](environment.yml) file:
 ```
 $ conda env create --name semantic_entropy_radiology --file=environment.yml
 ```
-4. Activate the environment:
+3. Activate the environment:
 ```
 $ conda activate semantic_entropy_radiology
 ```
@@ -40,7 +36,7 @@ Note: Due to the non-deterministic nature of LLMs, new prompting may yield sligh
 
 1. Configure credentials:
    - Open [`CONFIG.py`](CONFIG.py)
-   - Update `OPENAI_KEY` and `AZURE_ENDPOINT` with your credentials.
+   - Update `LOCAL_KEY`, `LOCAL_ENDPOINT`, `OPENAI_KEY` and `AZURE_ENDPOINT` with your credentials.
 
 2. Prepare the environment:
    - Clear the `cache` directory to ensure a clean evaluation.
@@ -79,6 +75,9 @@ This step utilizes GPT4o for semantic clustering and answer comparison. Previous
 - [`clusterAnswers.py`](clusterAnswers.py): Implements semantic entropy calculations and evaluation metrics (AUROC, AURAC)
 - [`EntailmentCheck.py`](EntailmentCheck.py): Manages clustering and entailment verification
   - Implements prompt caching for efficient repeated executions
+
+#### Radiologist correction
+To verify answer correctness, all correctness labels were reviewed by a board-certified radiologist. This led to changes in some reported values. The corresponding corrections are included in [`entailmentCacheFile_GPT4o.csv`](cache/entailmentCacheFile_GPT4o.csv).
 
 #### Evaluation Tools
 - [`eval.py`](eval.py): Handles the evaluation pipeline
