@@ -1,0 +1,32 @@
+PROMPT_LOG_FILE_PATH = "cache/promptLogFile.csv"
+
+ENTAILMENT_CACHE_FILE_GPT_4O = "cache/entailmentCacheFile_GPT4o.csv"
+ENTAILMENT_CACHE_FILE_GPT_OSS_120B = "cache/entailmentCacheFile_GPT-oss-120b.csv"
+
+
+ANSWER_CLUSTER_FOLDER = "cache/"
+
+PROMPT_SAMPLE_PER_QUESTION = 10
+
+HIGH_TEMPERATURE = 1.0
+LOW_TEMPERATURE = 0.1
+
+ENTAILMENT_TEMPERATURE = 0.1
+
+PROMPT_PREFIX_GUIDELINES = "Please refer to the currently valid US-american guidelines and answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.\n"
+PROMPT_PREFIX_EDU_RESEARCH = "Please answer as short and precise as possible. Do not give information that is not explicitly asked for in the question.\n"
+
+NUM_RETRYS = 5
+
+MAX_TOKEN = 150
+MAX_TOKEN_LOCAL = 1500
+
+#replace with your API-KEY / Azure endpoint:
+OPENAI_KEY = "your-key-here"
+AZURE_ENDPOINT = "your-endpoint-here"
+
+#replace with the key / OpenAI-compatible endpoint of your locally hosted gpt-oss-120b:
+LOCAL_KEY = "your-local-key-here"
+LOCAL_ENDPOINT = "http://localhost:8000/v1"
+
+
